@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleAllowMixedLocalizations</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Galaxy Buds Mac Control</string>
+	<key>CFBundleExecutable</key>
+	<string>BudsApp</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>dev.local.galaxybudscontrol</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>zh-Hant</string>
+	</array>
+	<key>CFBundleName</key>
+	<string>Galaxy Buds Mac Control</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAudioCaptureUsageDescription</key>
+	<string>Galaxy Buds Mac Control 在本機擷取 Mac 播放音訊，依耳機頭部方向產生空間音效。</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Galaxy Buds Mac Control 使用藍牙讀取 Samsung 耳機狀態與調整設定。</string>
+</dict>
+</plist>

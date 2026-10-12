@@ -1,0 +1,44 @@
+name: Release macOS App
+
+# 已壓版的 commit 由 v* 標籤觸發發行，pipeline 讀取來源版本。
+on:
+  push:
+    tags:
+      - 'v*'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: macos-26
+    timeout-minutes: 30
+    steps:
+      - name: Check out tagged source
+        uses: actions/checkout@v4
+
+      # 驗證與本機共用腳本，封裝採目前預設的 ad-hoc 簽章。
+      - name: Verify source and resources
+        run: |
+          bash -n build.sh package.sh test.sh scripts/developer-environment.sh
+          bash test.sh
+
+      # build.sh 在編譯前比對標籤，package.sh 從 App 版本產生 DMG 名稱。
+      - name: Build and package DMG
+        env:
+          BUDS_RELEASE_TAG: ${{ github.ref_name }}
+        run: bash package.sh
+
+      # 產物上傳使用 workflow token，已有 Release 時停止以避免覆寫。
+      - name: Publish GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" \
+            dist/*.dmg dist/*.dmg.sha256 \
+            --verify-tag --generate-notes \
+            --title "Galaxy Buds Mac Control $GITHUB_REF_NAME"

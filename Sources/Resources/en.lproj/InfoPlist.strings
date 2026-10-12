@@ -1,0 +1,3 @@
+"NSBluetoothAlwaysUsageDescription" = "Galaxy Buds Mac Control uses Bluetooth to read and configure your Samsung earbuds.";
+
+"NSAudioCaptureUsageDescription" = "Galaxy Buds Mac Control processes Mac playback locally to produce head-tracked spatial audio.";

@@ -1,0 +1,434 @@
+{
+  "schemaVersion": 1,
+  "id": "buds4Pro",
+  "name": "Galaxy Buds4 Pro",
+  "modelNumber": "SM-R640",
+  "namePatterns": [
+    "buds4pro"
+  ],
+  "serviceUUIDs": [
+    "2e73a4ad-332d-41fc-90e2-16bef06523f2",
+    "f8620674-a1ed-41ab-a8b9-de9ad655729d",
+    "00001101-0000-1000-8000-00805f9b34fb"
+  ],
+  "protocolAdapter": "spp-modern",
+  "ancSteps": 5,
+  "ambientMax": 4,
+  "features": [
+    "anc",
+    "ambient",
+    "adaptive",
+    "customEQ",
+    "headGestures",
+    "spatialAudio",
+    "hardwareDiagnostics",
+    "firmwareUpdate"
+  ],
+  "colors": [
+    {
+      "id": "black",
+      "label": "color.buds4Pro.black",
+      "deviceIDs": [
+        359
+      ],
+      "earbuds": {
+        "name": "buds4Pro-black-earbuds",
+        "bounds": [
+          257,
+          129,
+          1405,
+          1031
+        ]
+      },
+      "chargingCase": {
+        "name": "buds4Pro-black-case",
+        "bounds": [
+          360,
+          300,
+          1200,
+          680
+        ]
+      }
+    },
+    {
+      "id": "white",
+      "label": "color.buds4Pro.white",
+      "deviceIDs": [
+        360
+      ],
+      "earbuds": {
+        "name": "buds4Pro-white-earbuds",
+        "bounds": [
+          257,
+          129,
+          1405,
+          1031
+        ]
+      },
+      "chargingCase": {
+        "name": "buds4Pro-white-case",
+        "bounds": [
+          360,
+          300,
+          1200,
+          680
+        ]
+      }
+    },
+    {
+      "id": "pinkGold",
+      "label": "color.buds4Pro.pinkGold",
+      "deviceIDs": [
+        361
+      ],
+      "earbuds": {
+        "name": "buds4Pro-pinkGold-earbuds",
+        "bounds": [
+          257,
+          129,
+          1405,
+          1030
+        ]
+      },
+      "chargingCase": {
+        "name": "buds4Pro-pinkGold-case",
+        "bounds": [
+          360,
+          300,
+          1200,
+          680
+        ]
+      }
+    }
+  ],
+  "defaultColor": "pinkGold",
+  "quickControls": [
+    "detectConversations",
+    "ambientDuringCalls",
+    "touchpadLock"
+  ],
+  "additionalSettings": [
+    "seamlessConnection",
+    "pauseWhenRemoved",
+    "clearCalls",
+    "sirenDetection",
+    "voiceCommands",
+    "adaptiveVolume",
+    "fitAdjustment",
+    "voiceBoost",
+    "volumeNormalization"
+  ],
+  "additionalStatusOffsets": {
+    "seamlessConnection": 19,
+    "pauseWhenRemoved": 46,
+    "clearCalls": 44,
+    "sirenDetection": 52,
+    "voiceCommands": 47,
+    "adaptiveVolume": 50,
+    "fitAdjustment": 49,
+    "voiceBoost": 57,
+    "volumeNormalization": 58
+  },
+  "touchTailOffsets": [
+    null,
+    51
+  ],
+  "cradleVersionLength": 13,
+  "cradleSerialLength": 14,
+  "touchActionCodes": {
+    "disabled": 0,
+    "voiceAssistant": 1,
+    "noiseControl": 2,
+    "digitalAssistant": 3,
+    "otherApp": 5,
+    "volume": 6
+  },
+  "assistantStatusOffset": 59,
+  "settingsCategories": [
+    "general",
+    "sound",
+    "quality",
+    "equalizer",
+    "controls",
+    "voice",
+    "head",
+    "spatial",
+    "connections",
+    "advanced",
+    "accessibility",
+    "find",
+    "firmware",
+    "about"
+  ],
+  "firmware": {
+    "archiveBaseURL": "https://fw.timschneeberger.me/v3",
+    "archiveModel": "Buds4Pro",
+    "buildPrefix": "R640",
+    "imagePattern": "SM-R640",
+    "minimumBatteryPercent": 30,
+    "officialInformationURL": "https://www.samsung.com/tw/support/mobile-devices/update-samsung-galaxy-buds-software/"
+  },
+  "diagnosticChecks": [
+    {
+      "bit": 0,
+      "labelKey": "Hardware version"
+    },
+    {
+      "bit": 1,
+      "labelKey": "Software version"
+    },
+    {
+      "bit": 2,
+      "labelKey": "Touch firmware"
+    },
+    {
+      "bit": 3,
+      "labelKey": "Left serial"
+    },
+    {
+      "bit": 4,
+      "labelKey": "Right serial"
+    },
+    {
+      "bit": 5,
+      "labelKey": "Left Bluetooth address"
+    },
+    {
+      "bit": 6,
+      "labelKey": "Right Bluetooth address"
+    },
+    {
+      "bit": 7,
+      "labelKey": "Left accelerometer X"
+    },
+    {
+      "bit": 8,
+      "labelKey": "Left accelerometer Y"
+    },
+    {
+      "bit": 9,
+      "labelKey": "Left accelerometer Z"
+    },
+    {
+      "bit": 10,
+      "labelKey": "Right accelerometer X"
+    },
+    {
+      "bit": 11,
+      "labelKey": "Right accelerometer Y"
+    },
+    {
+      "bit": 12,
+      "labelKey": "Right accelerometer Z"
+    },
+    {
+      "bit": 13,
+      "labelKey": "Left proximity sensor"
+    },
+    {
+      "bit": 14,
+      "labelKey": "Right proximity sensor"
+    },
+    {
+      "bit": 15,
+      "labelKey": "Left temperature sensor"
+    },
+    {
+      "bit": 16,
+      "labelKey": "Right temperature sensor"
+    },
+    {
+      "bit": 17,
+      "labelKey": "Left charge percentage"
+    },
+    {
+      "bit": 18,
+      "labelKey": "Left battery voltage"
+    },
+    {
+      "bit": 19,
+      "labelKey": "Left battery current"
+    },
+    {
+      "bit": 20,
+      "labelKey": "Right charge percentage"
+    },
+    {
+      "bit": 21,
+      "labelKey": "Right battery voltage"
+    },
+    {
+      "bit": 22,
+      "labelKey": "Right battery current"
+    },
+    {
+      "bit": 23,
+      "labelKey": "Left hall sensor"
+    },
+    {
+      "bit": 24,
+      "labelKey": "Right hall sensor"
+    }
+  ],
+  "ambientCustomMax": 2,
+  "ambientCommandTailOffsets": [
+    36,
+    40,
+    37
+  ],
+  "assistantMinimumRevision": 0,
+  "assistantOverridesAction": false,
+  "assistantProviders": {
+    "googleAssistant": 1,
+    "digitalAssistant": 2
+  },
+  "developmentFeatures": [
+    {
+      "id": "spatialAudio",
+      "status": "partialSupport",
+      "reasonKey": "research.reason.buds4Pro.spatialAudio",
+      "references": [
+        {
+          "title": "GalaxyBudsClient · SpatialSensorManager",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/blob/754b6fdfb1c151b022cece775c8aaad4eb185afa/GalaxyBudsClient/Message/SpatialSensorManager.cs"
+        },
+        {
+          "title": "GalaxyBudsClient · macOS spatial audio capture",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/blob/754b6fdfb1c151b022cece775c8aaad4eb185afa/GalaxyBudsClient/Platform/SpatialAudio/MacOsSpatialAudioCapture.cs"
+        },
+        {
+          "title": "GalaxyBudsClient · Galaxy Buds4 Pro",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/blob/754b6fdfb1c151b022cece775c8aaad4eb185afa/GalaxyBudsClient/Model/Specifications/Buds4ProDeviceSpec.cs"
+        },
+        {
+          "title": "Apple · AVAudioEnvironmentNode",
+          "url": "https://developer.apple.com/documentation/avfaudio/avaudioenvironmentnode"
+        }
+      ]
+    },
+    {
+      "id": "adaptSound",
+      "status": "protocolUnavailable",
+      "reasonKey": "research.reason.buds4Pro.adaptSound",
+      "references": [
+        {
+          "title": "GalaxyBudsClient · extended status",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/blob/754b6fdfb1c151b022cece775c8aaad4eb185afa/GalaxyBudsClient/Message/Decoder/ExtendedStatusUpdateDecoder.cs"
+        }
+      ]
+    },
+    {
+      "id": "voiceLanguageDownload",
+      "status": "resourceUnavailable",
+      "reasonKey": "research.reason.buds4Pro.voiceLanguageDownload",
+      "references": [
+        {
+          "title": "GalaxyBudsClient · command identifiers",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/blob/754b6fdfb1c151b022cece775c8aaad4eb185afa/GalaxyBudsClient/Message/SppMessageEnums.cs"
+        },
+        {
+          "title": "GalaxyBudsClient · Galaxy Buds4 Pro",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/blob/754b6fdfb1c151b022cece775c8aaad4eb185afa/GalaxyBudsClient/Model/Specifications/Buds4ProDeviceSpec.cs"
+        }
+      ]
+    },
+    {
+      "id": "auracast",
+      "status": "platformUnavailable",
+      "reasonKey": "research.reason.buds4Pro.auracast",
+      "references": [
+        {
+          "title": "GalaxyBudsClient · alternative feature identifiers",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/blob/754b6fdfb1c151b022cece775c8aaad4eb185afa/GalaxyBudsClient/Message/SppAlternativeMessage.cs"
+        }
+      ]
+    },
+    {
+      "id": "notificationReading",
+      "status": "platformUnavailable",
+      "reasonKey": "research.reason.buds4Pro.notificationReading",
+      "references": []
+    },
+    {
+      "id": "deviceAutoSwitch",
+      "status": "platformUnavailable",
+      "reasonKey": "research.reason.buds4Pro.deviceAutoSwitch",
+      "references": [
+        {
+          "title": "GalaxyBudsClient · issue #498",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/issues/498"
+        }
+      ]
+    },
+    {
+      "id": "postureReminder",
+      "status": "platformUnavailable",
+      "reasonKey": "research.reason.buds4Pro.postureReminder",
+      "references": [
+        {
+          "title": "GalaxyBudsClient · posture command identifiers",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/blob/754b6fdfb1c151b022cece775c8aaad4eb185afa/GalaxyBudsClient/Message/SppMessageEnums.cs"
+        }
+      ]
+    },
+    {
+      "id": "advancedAudio",
+      "status": "platformUnavailable",
+      "reasonKey": "research.reason.buds4Pro.advancedAudio",
+      "references": []
+    },
+    {
+      "id": "fullDiagnostics",
+      "status": "partialSupport",
+      "reasonKey": "research.reason.buds4Pro.fullDiagnostics",
+      "references": [
+        {
+          "title": "GalaxyBudsClient · self-test decoder",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/blob/754b6fdfb1c151b022cece775c8aaad4eb185afa/GalaxyBudsClient/Message/Decoder/SelfTestDecoder.cs"
+        },
+        {
+          "title": "GalaxyBudsClient · issue #551",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/issues/551"
+        }
+      ]
+    },
+    {
+      "id": "firmwareUpdate",
+      "status": "implemented",
+      "reasonKey": "research.reason.buds4Pro.firmwareUpdate",
+      "references": [
+        {
+          "title": "galaxy-buds-mac · firmware updater",
+          "url": "https://github.com/vedatkilic/galaxy-buds-mac/blob/3ffedf8217695075188ac4a6b1d0664022f58d92/Sources/Firmware/FirmwareUpdater.swift"
+        },
+        {
+          "title": "GalaxyBudsClient · firmware transfer manager",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/blob/754b6fdfb1c151b022cece775c8aaad4eb185afa/GalaxyBudsClient/Message/FirmwareTransferManager.cs"
+        },
+        {
+          "title": "GalaxyBudsClient · issue #707",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/issues/707"
+        },
+        {
+          "title": "GalaxyBudsClient · Galaxy Buds4 Pro",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/blob/754b6fdfb1c151b022cece775c8aaad4eb185afa/GalaxyBudsClient/Model/Specifications/Buds4ProDeviceSpec.cs"
+        },
+        {
+          "title": "GalaxyBudsClient · model detection fix #712",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/pull/712"
+        }
+      ]
+    },
+    {
+      "id": "headCallIntegration",
+      "status": "platformUnavailable",
+      "reasonKey": "research.reason.buds4Pro.headCallIntegration",
+      "references": [
+        {
+          "title": "GalaxyBudsClient · issue #697",
+          "url": "https://github.com/timschneeb/GalaxyBudsClient/issues/697"
+        }
+      ]
+    }
+  ]
+}

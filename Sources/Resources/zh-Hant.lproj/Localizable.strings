@@ -1,0 +1,536 @@
+"10 seconds" = "10 秒";
+"15 seconds" = "15 秒";
+"5 seconds" = "5 秒";
+"ANC strength" = "降噪等級";
+"About & Diagnostics" = "關於與診斷";
+"Adaptive" = "最佳化";
+"Adjust fit" = "請調整配戴位置";
+"Allow the login item in System Settings." = "請在系統設定允許登入項目。";
+"Ambient Sound" = "環境音效";
+"Ambient sound during calls" = "通話期間使用環境音效";
+"Ambient volume" = "環境音音量";
+"Appearance color" = "外觀顏色";
+"Automatic" = "自動辨識";
+"Automatically switch to ambient sound" = "自動切換為環境音";
+"Bass Boost" = "低音增強";
+"Bluetooth is off. Please turn it on." = "請開啟藍牙。";
+"Bluetooth permission denied. Allow this app under System Settings → Privacy & Security → Bluetooth." = "請在系統設定 → 隱私權與安全性 → 藍牙，允許此 App 存取。";
+"Bluetooth transmission failed. Reconnect your earbuds." = "藍牙傳送失敗，請重新連線。";
+"Cancel" = "取消";
+"Case battery" = "充電盒電量";
+"Check earbud fit" = "開始測試";
+"Choose a model" = "選擇型號";
+"Clear" = "嘹亮";
+"Color has not been identified. Showing the default illustration; select a color manually." = "顏色尚未辨識，顯示預設示意色，可手動選擇。";
+"Connect" = "連線";
+"Connect earbuds" = "連線耳機";
+"Connecting to %@..." = "正在連線 %@⋯";
+"Copied" = "已複製";
+"Copies the connection log, so you can paste it into a bug report on GitHub." = "複製連線紀錄，供問題排查使用。";
+"Copy diagnostics" = "複製診斷紀錄";
+"Could not change the system volume." = "無法調整系統音量。";
+"Could not open the earbud control channel. Confirm the earbuds are connected to this Mac, then retry." = "無法建立耳機控制通道，請確認耳機已連線至這台 Mac，再重試。";
+"Current appearance" = "目前外觀";
+"Custom" = "自訂";
+"Custom ambient settings…" = "自訂環境音設定⋯";
+"Customize ambient sound" = "自訂環境音";
+"Dark preview" = "深色預覽";
+"Detect conversations" = "語音偵測";
+"Device" = "裝置";
+"Diagnostics" = "診斷";
+"Disconnect" = "中斷連線";
+"Done" = "完成";
+"Duration" = "持續時間";
+"Dynamic" = "動感";
+"Earbud Controls" = "耳機操作";
+"Earbud fit test" = "耳機密合度測試";
+"Earbud model" = "耳機型號";
+"Equalizer" = "等化器";
+"Features under research" = "功能研究狀態";
+"Find Earbuds" = "尋找耳機";
+"Find earbuds" = "尋找耳機";
+"Find nearby earbuds" = "搜尋附近耳機";
+"Galaxy Buds Settings…" = "Galaxy Buds 設定⋯";
+"General" = "一般";
+"Good seal" = "密合良好";
+"Hear your own voice" = "聽見自己的聲音";
+"High" = "高";
+"Launch at login" = "登入時啟動";
+"Left" = "左耳";
+"Left cycle" = "左耳輪替";
+"Left earbud battery" = "左耳電量";
+"Left serial" = "左耳序號";
+"Listening Mode" = "聆聽模式";
+"Low" = "低";
+"Mac Bluetooth devices" = "Mac 藍牙裝置";
+"Mid" = "中";
+"Mode" = "模式";
+"Model" = "型號";
+"Mute" = "靜音";
+"Nearby discovery failed." = "附近裝置搜尋失敗。";
+"No Buds Connected" = "耳機尚未連線";
+"No paired earbuds found. Pair your earbuds in Mac Bluetooth settings." = "尚未找到已配對耳機，請先在 Mac 藍牙設定配對。";
+"No result yet" = "尚未回報結果";
+"Noise Cancelling" = "主動式降噪";
+"Noise control" = "切換噪音控制";
+"Noise control with one earbud" = "單邊耳機噪音控制";
+"Normal" = "平衡";
+"Not reported" = "未回報";
+"Off" = "關閉";
+"Open Mac Bluetooth settings" = "開啟 Mac 藍牙設定";
+"Play sound" = "播放聲音";
+"Playing a sound on your earbuds." = "耳機正在播放尋找音效。";
+"Preset" = "預設音效";
+"Preset curve (read-only)" = "耳機回報的預設曲線";
+"Preview mode" = "預覽模式";
+"Preview mode with sample data" = "預覽模式，使用示範資料";
+"Preview mode: changes apply to sample data." = "預覽模式：設定僅套用於示範資料。";
+"Preview model" = "預覽機型";
+"Protocol verification pending" = "待協定驗證";
+"Put both earbuds in and start the test to check the seal." = "戴好兩邊耳機後開始測試。";
+"Quick Panel" = "快捷面板";
+"Quit" = "結束";
+"Quit Galaxy Buds" = "結束 Galaxy Buds Mac Control";
+"Refresh paired devices" = "重新讀取已配對裝置";
+"Reset to flat" = "重設為平坦曲線";
+"Right" = "右耳";
+"Right cycle" = "右耳輪替";
+"Right earbud battery" = "右耳電量";
+"Right serial" = "右耳序號";
+"Ring your earbuds to locate them." = "播放音效以尋找已連線的耳機。";
+"Select the controls to show in the menu bar panel." = "勾選要顯示在選單列面板的控制項。";
+"Setting sent." = "設定已送出。";
+"Soft" = "柔和";
+"Software version" = "軟體版本";
+"Sound" = "聲音";
+"Specify an earbud model" = "請指定耳機型號";
+"Spotify" = "Spotify";
+"Stop" = "停止";
+"Stop discovery" = "停止搜尋";
+"System output volume" = "系統輸出音量";
+"Test failed" = "測試失敗";
+"The control channel is disconnected. Reconnect your earbuds." = "控制通道未連線，請重新連線。";
+"The earbuds accepted the setting." = "耳機已接受設定。";
+"The earbuds rejected the setting." = "耳機拒絕這項設定。";
+"The earbuds replied to the setting." = "耳機已回覆設定。";
+"The setting exceeds the Bluetooth packet size limit." = "設定資料超過藍牙封包長度上限。";
+"Tone" = "音調";
+"Touch and hold" = "長按操作";
+"Touchpad" = "媒體控制";
+"Touchpad lock" = "鎖定耳機操作";
+"Treble Boost" = "高音增強";
+"Unnamed Bluetooth device" = "未命名藍牙裝置";
+"Unrecognized action" = "未辨識的動作";
+"Unrecognized cycle" = "未辨識的輪替組合";
+"Voice assistant" = "語音助理";
+"Volume" = "音量";
+"Waiting for Bluetooth permission or power." = "等待藍牙權限或電源狀態。";
+"Waiting for earbud settings" = "等待耳機回報設定";
+"Waiting for preset curves" = "等待耳機回報預設曲線";
+"research.auracast" = "音訊廣播";
+"research.notificationReading" = "通知朗讀";
+
+
+
+
+
+"Samsung charging case" = "Samsung 充電盒";
+
+"Find sound requested. Use Stop to end it." = "已送出尋找音效命令，按停止可結束。";
+
+"Seamless earbud connection" = "流暢耳機連線";
+
+"Pause media when an earbud is removed" = "取下一邊耳機時暫停媒體";
+
+"Clearer calls" = "清晰通話";
+
+"Advanced features" = "進階功能";
+
+"Gesture controls" = "操作開關";
+
+"Single press" = "按一下";
+
+"Double press" = "按兩下";
+
+"Triple press" = "按三下";
+
+"Press and hold" = "長按";
+
+"Answer or end calls" = "接聽或結束通話";
+
+"Decline calls" = "拒接來電";
+
+"Left-right sound balance" = "左右音量平衡";
+
+"Center balance" = "左右置中";
+
+"Seamless connection allows another paired device to take the earbuds. Samsung account auto-switch is managed by Galaxy devices." = "流暢連線允許其他已配對裝置接走耳機，三星帳號的自動切換由 Galaxy 裝置管理。";
+
+"Case serial" = "充電盒序號";
+
+"Case software version" = "充電盒軟體版本";
+
+"Detect sirens" = "警報偵測";
+
+"Voice commands" = "語音指令";
+
+"Adaptive volume" = "適應性音量";
+
+"Adjust sound to fit" = "調整為合適音量";
+
+"Boost dialogue" = "強化人聲";
+
+"Volume normalization" = "音量標準化";
+
+"Swipe to adjust volume" = "滑動調整音量";
+
+"Blade lights" = "耳機燈效";
+
+"Lighting style" = "燈效樣式";
+
+"Steady" = "固定";
+
+"Blinking" = "閃爍";
+
+"Breathing" = "淡入淡出";
+
+"Pinch and hold both earbuds to turn the lights on or off." = "長按兩側耳機可開啟或關閉燈光。";
+
+"Head gestures" = "頭部動作";
+
+"Enable head gestures on this Mac" = "在此 Mac 啟用頭部動作";
+
+"Positive gesture" = "肯定動作";
+
+"Nod" = "點頭";
+
+"Shake head" = "搖頭";
+
+"Last detected gesture" = "最近收到的動作";
+
+"Positive" = "肯定";
+
+"Negative" = "否定";
+
+"This Mac stores the detection preference. Call and assistant responses require integration with the app handling them." = "偵測偏好保存在此 Mac，通話與助理回應需由對應應用程式整合。";
+
+"Select at least two modes." = "請至少選擇兩種模式。";
+
+"Sound quality and effects" = "音質與音效";
+
+"Voice controls" = "語音操控";
+
+"Manage connections" = "管理連線";
+
+"Accessibility" = "協助工具";
+
+"In-ear detection" = "入耳偵測";
+
+"Calls" = "通話";
+
+"Name" = "名稱";
+
+"Open equalizer" = "開啟等化器";
+
+"Uses the voice language currently installed on the earbuds." = "語言沿用耳機目前已安裝的語音模型。";
+
+
+
+"research.spatialAudio" = "360 音訊與頭部追蹤";
+
+"research.adaptSound" = "Adapt sound 聽力設定";
+
+"research.voiceLanguageDownload" = "語音語言模型下載";
+
+"research.deviceAutoSwitch" = "三星帳號自動切換";
+
+"research.postureReminder" = "頸部伸展提醒";
+
+"research.advancedAudio" = "UHQ 與超寬頻語音";
+
+"research.fullDiagnostics" = "完整硬體診斷";
+
+"research.firmwareUpdate" = "耳機韌體更新";
+
+"research.headCallIntegration" = "頭部動作通話與助理整合";
+
+"Search settings categories" = "搜尋設定分類";
+
+"Toggle sidebar" = "顯示或隱藏側欄";
+
+"Allow other paired devices to connect to your earbuds." = "允許其他已配對裝置連接耳機。";
+
+"Pause playback when an earbud is removed." = "取下一邊耳機時暫停播放。";
+
+"Improve voice clarity during calls." = "提升通話時的語音清晰度。";
+
+"Switch to ambient sound when a siren is detected." = "偵測到警報聲時切換為環境音。";
+
+"Control playback and calls with voice commands." = "使用語音指令控制播放與通話。";
+
+"Adjust volume automatically for your surroundings." = "依周圍環境自動調整音量。";
+
+"Adjust sound using the fit of your earbuds." = "依耳機配戴狀態調整音效。";
+
+"Make speech clearer in media." = "讓媒體中的人聲更清晰。";
+
+"Reduce differences in volume between audio sources." = "降低不同音訊來源之間的音量落差。";
+
+"Setting queued." = "設定已排入傳送。";
+
+"The control channel is not ready yet." = "耳機控制通道尚未就緒。";
+
+"Settings…" = "設定⋯";
+
+"Digital assistant" = "數位助理";
+"Other app" = "其他 App";
+"Google Assistant" = "Google 助理";
+"Bixby" = "Bixby";
+
+"Development status" = "開發狀態";
+"Not implemented" = "尚未實作";
+"Protocol validation needed" = "待協定驗證";
+"Platform integration needed" = "待平台整合";
+"These features are not implemented. The statuses describe remaining development work, not device support." = "下列功能尚未實作，狀態說明後續開發所需的工作，裝置能力仍需另行驗證。";
+
+"Reference implementation available" = "已有參考實作";
+"Partial protocol documented" = "已有部分協定";
+"Device support needs validation" = "待確認機型支援";
+
+"Spatial audio" = "空間音訊";
+"Firmware" = "韌體";
+"Current version" = "目前版本";
+"Firmware source" = "韌體來源";
+"Check for updates" = "檢查更新";
+"Choose firmware file…" = "選擇韌體檔案⋯";
+"Download" = "下載";
+"Selected firmware" = "選取的韌體";
+"Version" = "版本";
+"Bytes" = "位元組";
+"Keep both earbuds charged above 30%, in the open case, and keep the Mac nearby." = "請將兩耳充電至 30% 以上並放入開蓋的耳機盒，Mac 保持在附近。";
+"Install firmware" = "安裝韌體";
+"Update progress" = "更新進度";
+"Keep this app running until the installed version has been confirmed." = "請保持 App 開啟，直到確認安裝版本。";
+"Cancel transfer" = "取消傳輸";
+"Install this firmware?" = "要安裝這個韌體嗎？";
+"Interrupting firmware installation can damage the earbuds. Confirm the model and version before continuing." = "中斷韌體安裝可能造成耳機損壞，繼續前請確認機型與版本。";
+"Choose an update to begin." = "選擇韌體後開始更新。";
+"Preparing…" = "準備中⋯";
+"Sending firmware…" = "傳送韌體中⋯";
+"Installing…" = "安裝中⋯";
+"Waiting for restart and version confirmation…" = "等待耳機重啟與版本確認⋯";
+"Installed version confirmed." = "已確認安裝版本。";
+"No newer firmware is available." = "目前沒有較新的韌體。";
+"The firmware file is incomplete." = "韌體檔案不完整。";
+"Firmware model does not match the connected earbuds." = "韌體機型與已連線的耳機不符。";
+"Firmware checksum failed." = "韌體校驗失敗。";
+"This file isn't Galaxy Buds firmware." = "此檔案不是支援的 Samsung 耳機韌體。";
+"The firmware file contains no data." = "韌體檔案沒有資料。";
+"No firmware is published for this model." = "此機型沒有可用韌體。";
+"The firmware archive couldn't be reached." = "無法連線到韌體來源。";
+"The download wasn't a firmware image." = "下載內容不是韌體映像。";
+"revision" = "修訂版";
+"The update failed." = "更新失敗。";
+"The earbuds didn't start the update." = "耳機沒有開始更新。";
+"The update was cancelled." = "已取消更新。";
+"The earbuds disconnected during the update." = "耳機在更新期間中斷連線。";
+"The earbuds refused to start the update." = "耳機拒絕開始更新。";
+"The earbuds stopped responding while preparing." = "耳機在準備期間停止回應。";
+"The earbuds asked for a part the firmware doesn't contain." = "耳機要求的區段不在韌體映像中。";
+"The earbuds stopped responding during the update." = "耳機在更新期間停止回應。";
+"The earbuds stopped responding while installing." = "耳機在安裝期間停止回應。";
+"The earbuds couldn't install the firmware." = "耳機無法安裝韌體。";
+"The earbuds couldn't verify the firmware." = "耳機無法驗證韌體。";
+"Firmware upload was verified, but the installed version was not confirmed. Reconnect to check it." = "韌體傳輸已驗證，安裝版本尚未確認，請重新連線檢查。";
+"Wait for firmware installation to finish." = "請等待韌體安裝完成。";
+"The earbuds did not return diagnostic results." = "耳機沒有回報診斷結果。";
+"Hardware diagnostics" = "硬體診斷";
+"Run hardware self-test" = "執行硬體自我測試";
+"Waiting for diagnostic results…" = "等待診斷結果⋯";
+"Passed" = "通過";
+"Failed" = "未通過";
+"System spatial audio requires macOS 14.2 or later." = "系統空間音訊需要 macOS 14.2 以上版本。";
+"The captured audio format is unsupported." = "擷取的音訊格式不受支援。";
+"Audio output changed. Restart spatial audio processing." = "音訊輸出已變更，請重新啟動空間音訊處理。";
+"Processes Mac audio locally with head tracking. macOS asks for system audio recording permission when enabled." = "將 Mac 立體聲播放置入原生虛擬音場，頭部追蹤可獨立開關，啟用時 macOS 會詢問系統音訊錄製權限。";
+"Spatial audio processing" = "空間音訊處理";
+"Head tracking" = "頭部追蹤";
+"Connected" = "已連線";
+"Not active" = "未啟用";
+"Recenter" = "重新置中";
+"Hardware version" = "硬體版本";
+"Touch firmware" = "操作韌體";
+"Left Bluetooth address" = "左耳藍牙位址";
+"Right Bluetooth address" = "右耳藍牙位址";
+"Left charge percentage" = "左耳電量";
+"Right charge percentage" = "右耳電量";
+"Left battery voltage" = "左耳電池電壓";
+"Right battery voltage" = "右耳電池電壓";
+"Left battery current" = "左耳電池電流";
+"Right battery current" = "右耳電池電流";
+"Left accelerometer X" = "左耳 加速度 X";
+"Left accelerometer Y" = "左耳 加速度 Y";
+"Left accelerometer Z" = "左耳 加速度 Z";
+"Right accelerometer X" = "右耳 加速度 X";
+"Right accelerometer Y" = "右耳 加速度 Y";
+"Right accelerometer Z" = "右耳 加速度 Z";
+"Left proximity sensor" = "左耳 接近感測器";
+"Right proximity sensor" = "右耳 接近感測器";
+"Left temperature sensor" = "左耳 溫度感測器";
+"Right temperature sensor" = "右耳 溫度感測器";
+"Left hall sensor" = "左耳 霍爾感測器";
+"Right hall sensor" = "右耳 霍爾感測器";
+
+"Test head tracking sensor" = "測試頭部追蹤感測器";
+"Stop head tracking test" = "停止頭部追蹤測試";
+"No sensor data yet" = "尚未收到感測資料";
+"Sensor data received" = "已收到感測資料";
+
+"System audio input" = "系統音訊輸入";
+"Receiving audio" = "正在接收音訊";
+"No audio data yet" = "尚未收到音訊資料";
+
+
+"Audio processing exceeded its buffer limit. Original audio has been restored." = "音訊處理超出緩衝上限，已恢復原音。";
+
+"Start with a flat custom curve" = "建立平坦的自訂曲線";
+
+"Frequency bands" = "頻段";
+
+"Reconnect" = "重新連線";
+"This is an undocumented firmware self-test. A failed flag can also mean the firmware does not implement that check." = "這是未公開協定的韌體自我測試，未通過旗標也可能表示該韌體未提供該項測試。";
+"Failed or unavailable" = "未通過或未提供";
+"research.reason.buds3Pro.spatialAudio" = "使用 Apple 原生立體聲空間化與耳機頭部感測資料，音色及輸出延遲與 Samsung 360 音訊不同，音質驗收尚未完成，功能預設關閉。";
+"research.reason.buds3Pro.fullDiagnostics" = "提供耳機韌體自我測試回報，未公開旗標可能表示測試未提供，結果需逐項判讀。";
+"research.reason.buds3Pro.firmwareUpdate" = "驗證韌體的機型、版本與區段 CRC，依耳機回覆傳輸，重啟後讀回版本確認安裝結果。充電盒更新流程尚未提供。";
+"research.reason.buds3Pro.advancedAudio" = "Samsung UHQ 與超寬頻語音需要相容 Galaxy 裝置的編解碼器及系統服務，macOS 未提供相應公開介面。";
+"research.reason.buds3Pro.deviceAutoSwitch" = "Samsung 帳號自動切換需要行動裝置／Galaxy 系統服務，Mac 上的流暢連線開關只設定耳機連線行為。";
+"research.reason.buds3Pro.notificationReading" = "macOS 公開通知 API 僅管理本 App 的通知，沒有通用讀取其他 App 通知的介面。";
+"research.reason.buds3Pro.auracast" = "macOS 公開藍牙 API 未提供本 App 所需的完整廣播音訊探索與加入介面，耳機能力碼不能替代主機端支援。";
+"research.reason.buds3Pro.postureReminder" = "Samsung 原生提醒需要行動裝置的校準與姿態服務，本 App 不提供手機姿態資料或自訂健康判定演算法。";
+"research.reason.buds3Pro.voiceLanguageDownload" = "模型隨 Samsung 手機外掛封裝，兩個參考專案未提供獨立下載來源與完整安裝流程。Mac 尚缺安裝版本確認與復原的實機證據，現有語音指令使用耳機內的模型。";
+"research.reason.buds3Pro.adaptSound" = "只確認到聽力設定的狀態欄位，缺少完整係數格式、測試音量校準及安全寫入規格，本 App 不產生未驗證的聽力設定。";
+"research.reason.buds4Pro.spatialAudio" = "Buds4 Pro 已實測連續播放與正確追蹤方向，採 Apple 原生立體聲空間化，音色與輸出延遲不同於 Samsung 360 音訊。";
+"research.reason.buds4Pro.fullDiagnostics" = "提供耳機韌體自我測試回報，未公開旗標可能表示測試未提供，結果需逐項判讀。";
+"research.reason.buds4Pro.firmwareUpdate" = "映像、機型、區段 CRC、傳輸與重啟確認已實作，實際刷寫只在明確確認較新韌體後執行。";
+"research.reason.buds4Pro.advancedAudio" = "Samsung UHQ 與超寬頻語音需要相容 Galaxy 裝置的編解碼器及系統服務，macOS 未提供相應公開介面。";
+"research.reason.buds4Pro.deviceAutoSwitch" = "Samsung 帳號自動切換需要行動裝置／Galaxy 系統服務，Mac 上的流暢連線開關只設定耳機連線行為。";
+"research.reason.buds4Pro.notificationReading" = "macOS 公開通知 API 僅管理本 App 的通知，沒有通用讀取其他 App 通知的介面。";
+"research.reason.buds4Pro.headCallIntegration" = "Mac 缺少通用控制其他 App 通話與 Bixby 的公開介面，頭部動作設定與事件仍可使用。";
+"research.reason.buds4Pro.auracast" = "macOS 公開藍牙 API 未提供本 App 所需的完整廣播音訊探索與加入介面，耳機能力碼不能替代主機端支援。";
+"research.reason.buds4Pro.postureReminder" = "Samsung 原生提醒需要行動裝置的校準與姿態服務，本 App 不提供手機姿態資料或自訂健康判定演算法。";
+"research.reason.buds4Pro.voiceLanguageDownload" = "模型隨 Samsung 手機外掛封裝，兩個參考專案未提供獨立下載來源與完整安裝流程。Mac 尚缺安裝版本確認與復原的實機證據，現有語音指令使用耳機內的模型。";
+"research.reason.buds4Pro.adaptSound" = "只確認到聽力設定的狀態欄位，缺少完整係數格式、測試音量校準及安全寫入規格，本 App 不產生未驗證的聽力設定。";
+"Implemented; hardware validation pending" = "已實作，待實機驗收";
+"Verified" = "已驗證";
+"Partially supported" = "部分支援";
+"Unavailable on this platform" = "此平台不支援";
+"Complete protocol unavailable" = "完整協定不足";
+"Statuses distinguish implementation, device validation and platform limitations for the current model." = "各項狀態分別說明目前機型的程式實作、裝置驗證及平台限制。";
+
+"Privacy and permissions" = "隱私權與權限";
+
+"Bluetooth permission" = "藍牙權限";
+
+"Bluetooth access is required to discover and control paired earbuds." = "搜尋與控制已配對耳機需要藍牙權限。";
+
+"Open Bluetooth privacy settings" = "開啟藍牙隱私權設定";
+
+"System audio capture" = "系統音訊擷取";
+
+"Capturing audio" = "正在擷取音訊";
+
+"Not capturing audio" = "未擷取音訊";
+
+"Optional spatial audio requests system audio recording permission when enabled. Audio is processed locally without saving or uploading. Check the permission switch in System Settings." = "選用的空間音訊功能在啟用時要求系統音訊錄製權限，音訊在本機即時處理，不儲存或上傳。授權開關請在系統設定確認。";
+
+"Open system audio privacy settings" = "開啟系統音訊隱私權設定";
+
+"Allowed" = "已允許";
+
+"Denied" = "已拒絕";
+
+"Restricted by system policy" = "受系統政策限制";
+
+"Not requested" = "尚未要求";
+
+"Unknown" = "未知";
+
+"Decrease level" = "降低等級";
+
+"Increase level" = "提高等級";
+
+"No system audio data. Check the audio recording permission and restart playback." = "未收到系統音訊資料，請確認音訊錄製權限並重新播放。";
+
+"Virtual speaker angle" = "虛擬喇叭角度";
+
+"macOS chooses the highest-quality native headphone renderer. Speaker angle changes the width of the virtual stereo soundstage." = "macOS 自動選擇最高品質的原生耳機渲染方式，喇叭角度控制虛擬立體聲音場的寬度。";
+
+"The firmware version does not match the filename." = "韌體映像內的版本與檔名不符。";
+
+"Follow head movement" = "跟隨頭部動作";
+
+"Login item status" = "登入項目狀態";
+
+"Open login item settings" = "開啟登入項目設定";
+
+"Not registered" = "未註冊";
+
+"Requires system approval" = "等待系統允許";
+
+
+"color.buds3Pro.silver" = "銀河灰";
+
+"color.buds3Pro.white" = "雲朵白";
+
+"color.buds4Pro.white" = "極光白";
+
+"color.buds4Pro.black" = "曜石黑";
+
+"color.buds4Pro.pinkGold" = "粉霧金";
+
+"Waiting for playback audio" = "等待播放音訊";
+
+"Login item unavailable" = "登入項目目前不可用";
+
+"Verified resource source unavailable" = "缺少可驗證的資源來源";
+
+"Minimum earbud charge" = "耳機最低電量";
+
+"Keep both earbuds in the open case and keep the Mac nearby." = "請將兩邊耳機放在開蓋的充電盒內，並讓 Mac 保持靠近。";
+
+"Available update" = "可用更新";
+
+"Latest compatible version" = "最新相容版本";
+
+"Download latest firmware" = "下載最新韌體";
+
+"Other newer versions" = "其他較新版本";
+
+"Validating firmware file…" = "正在驗證韌體檔案⋯";
+
+"Checking for firmware updates…" = "正在檢查韌體更新⋯";
+
+"Downloading and validating firmware…" = "正在下載並驗證韌體⋯";
+
+"The archive has no firmware matching this device's region." = "此來源沒有符合目前裝置地區的韌體。";
+
+"Samsung update information" = "Samsung 官方更新資訊";
+
+"Third-party firmware archive" = "第三方韌體封存站";
+
+"The archive collects Samsung OTA files. Its list is separate from the official update availability for your earbuds." = "此站收集 Samsung OTA 韌體，封存清單與官方對目前耳機提供的更新分別判讀。";
+
+"Check archived versions" = "檢查封存版本";
+
+"Latest archived version for this model" = "此機型的最新封存版本";
+
+"Download archived firmware" = "下載封存韌體";
+
+"The archive has no firmware matching this device's build family." = "此來源沒有符合目前裝置版本系列的韌體。";
+
+"The archive has no version newer than the installed firmware." = "封存站沒有比目前已安裝韌體更新的版本。";
+
+"Back" = "上一頁";
+
+"Forward" = "下一頁";

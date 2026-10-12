@@ -1,0 +1,17 @@
+# Swift 建置、封裝與本機研究產物
+.build/
+dist/
+.swiftpm/xcode/xcuserdata/
+
+# Python 素材與資源檢查工具的快取
+__pycache__/
+*.py[cod]
+
+# 個人編輯器設定與暫存檔
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS Finder 資料
+.DS_Store

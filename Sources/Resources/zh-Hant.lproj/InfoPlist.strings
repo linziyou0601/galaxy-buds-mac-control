@@ -1,0 +1,3 @@
+"NSBluetoothAlwaysUsageDescription" = "Galaxy Buds Mac Control 使用藍牙讀取 Samsung 耳機狀態與調整設定。";
+
+"NSAudioCaptureUsageDescription" = "Galaxy Buds Mac Control 在本機擷取 Mac 播放音訊，依耳機頭部方向產生空間音效。";

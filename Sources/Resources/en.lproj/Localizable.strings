@@ -1,0 +1,536 @@
+"10 seconds" = "10 seconds";
+"15 seconds" = "15 seconds";
+"5 seconds" = "5 seconds";
+"ANC strength" = "ANC strength";
+"About & Diagnostics" = "About & Diagnostics";
+"Adaptive" = "Adaptive";
+"Adjust fit" = "Adjust fit";
+"Allow the login item in System Settings." = "Allow the login item in System Settings.";
+"Ambient Sound" = "Ambient Sound";
+"Ambient sound during calls" = "Ambient sound during calls";
+"Ambient volume" = "Ambient volume";
+"Appearance color" = "Appearance color";
+"Automatic" = "Automatic";
+"Automatically switch to ambient sound" = "Automatically switch to ambient sound";
+"Bass Boost" = "Bass Boost";
+"Bluetooth is off. Please turn it on." = "Bluetooth is off. Please turn it on.";
+"Bluetooth permission denied. Allow this app under System Settings → Privacy & Security → Bluetooth." = "Bluetooth permission denied. Allow this app under System Settings → Privacy & Security → Bluetooth.";
+"Bluetooth transmission failed. Reconnect your earbuds." = "Bluetooth transmission failed. Reconnect your earbuds.";
+"Cancel" = "Cancel";
+"Case battery" = "Case battery";
+"Check earbud fit" = "Check earbud fit";
+"Choose a model" = "Choose a model";
+"Clear" = "Clear";
+"Color has not been identified. Showing the default illustration; select a color manually." = "Color has not been identified. Showing the default illustration; select a color manually.";
+"Connect" = "Connect";
+"Connect earbuds" = "Connect earbuds";
+"Connecting to %@..." = "Connecting to %@...";
+"Copied" = "Copied";
+"Copies the connection log, so you can paste it into a bug report on GitHub." = "Copies the connection log, so you can paste it into a bug report on GitHub.";
+"Copy diagnostics" = "Copy diagnostics";
+"Could not change the system volume." = "Could not change the system volume.";
+"Could not open the earbud control channel. Confirm the earbuds are connected to this Mac, then retry." = "Could not open the earbud control channel. Confirm the earbuds are connected to this Mac, then retry.";
+"Current appearance" = "Current appearance";
+"Custom" = "Custom";
+"Custom ambient settings…" = "Custom ambient settings…";
+"Customize ambient sound" = "Customize ambient sound";
+"Dark preview" = "Dark preview";
+"Detect conversations" = "Detect conversations";
+"Device" = "Device";
+"Diagnostics" = "Diagnostics";
+"Disconnect" = "Disconnect";
+"Done" = "Done";
+"Duration" = "Duration";
+"Dynamic" = "Dynamic";
+"Earbud Controls" = "Earbud Controls";
+"Earbud fit test" = "Earbud fit test";
+"Earbud model" = "Earbud model";
+"Equalizer" = "Equalizer";
+"Features under research" = "Features under research";
+"Find Earbuds" = "Find Earbuds";
+"Find earbuds" = "Find earbuds";
+"Find nearby earbuds" = "Find nearby earbuds";
+"Galaxy Buds Settings…" = "Galaxy Buds Settings…";
+"General" = "General";
+"Good seal" = "Good seal";
+"Hear your own voice" = "Hear your own voice";
+"High" = "High";
+"Launch at login" = "Launch at login";
+"Left" = "Left";
+"Left cycle" = "Left cycle";
+"Left earbud battery" = "Left earbud battery";
+"Left serial" = "Left serial";
+"Listening Mode" = "Listening Mode";
+"Low" = "Low";
+"Mac Bluetooth devices" = "Mac Bluetooth devices";
+"Mid" = "Mid";
+"Mode" = "Mode";
+"Model" = "Model";
+"Mute" = "Mute";
+"Nearby discovery failed." = "Nearby discovery failed.";
+"No Buds Connected" = "No Buds Connected";
+"No paired earbuds found. Pair your earbuds in Mac Bluetooth settings." = "No paired earbuds found. Pair your earbuds in Mac Bluetooth settings.";
+"No result yet" = "No result yet";
+"Noise Cancelling" = "Noise Cancelling";
+"Noise control" = "Noise control";
+"Noise control with one earbud" = "Noise control with one earbud";
+"Normal" = "Normal";
+"Not reported" = "Not reported";
+"Off" = "Off";
+"Open Mac Bluetooth settings" = "Open Mac Bluetooth settings";
+"Play sound" = "Play sound";
+"Playing a sound on your earbuds." = "Playing a sound on your earbuds.";
+"Preset" = "Preset";
+"Preset curve (read-only)" = "Preset curve (read-only)";
+"Preview mode" = "Preview mode";
+"Preview mode with sample data" = "Preview mode with sample data";
+"Preview mode: changes apply to sample data." = "Preview mode: changes apply to sample data.";
+"Preview model" = "Preview model";
+"Protocol verification pending" = "Protocol verification pending";
+"Put both earbuds in and start the test to check the seal." = "Put both earbuds in and start the test to check the seal.";
+"Quick Panel" = "Quick Panel";
+"Quit" = "Quit";
+"Quit Galaxy Buds" = "Quit Galaxy Buds";
+"Refresh paired devices" = "Refresh paired devices";
+"Reset to flat" = "Reset to flat";
+"Right" = "Right";
+"Right cycle" = "Right cycle";
+"Right earbud battery" = "Right earbud battery";
+"Right serial" = "Right serial";
+"Ring your earbuds to locate them." = "Ring your earbuds to locate them.";
+"Select the controls to show in the menu bar panel." = "Select the controls to show in the menu bar panel.";
+"Setting sent." = "Setting sent.";
+"Soft" = "Soft";
+"Software version" = "Software version";
+"Sound" = "Sound";
+"Specify an earbud model" = "Specify an earbud model";
+"Spotify" = "Spotify";
+"Stop" = "Stop";
+"Stop discovery" = "Stop discovery";
+"System output volume" = "System output volume";
+"Test failed" = "Test failed";
+"The control channel is disconnected. Reconnect your earbuds." = "The control channel is disconnected. Reconnect your earbuds.";
+"The earbuds accepted the setting." = "The earbuds accepted the setting.";
+"The earbuds rejected the setting." = "The earbuds rejected the setting.";
+"The earbuds replied to the setting." = "The earbuds replied to the setting.";
+"The setting exceeds the Bluetooth packet size limit." = "The setting exceeds the Bluetooth packet size limit.";
+"Tone" = "Tone";
+"Touch and hold" = "Touch and hold";
+"Touchpad" = "Touchpad";
+"Touchpad lock" = "Touchpad lock";
+"Treble Boost" = "Treble Boost";
+"Unnamed Bluetooth device" = "Unnamed Bluetooth device";
+"Unrecognized action" = "Unrecognized action";
+"Unrecognized cycle" = "Unrecognized cycle";
+"Voice assistant" = "Voice assistant";
+"Volume" = "Volume";
+"Waiting for Bluetooth permission or power." = "Waiting for Bluetooth permission or power.";
+"Waiting for earbud settings" = "Waiting for earbud settings";
+"Waiting for preset curves" = "Waiting for preset curves";
+"research.auracast" = "Audio broadcast";
+"research.notificationReading" = "Read notifications";
+
+
+
+
+
+"Samsung charging case" = "Samsung charging case";
+
+"Find sound requested. Use Stop to end it." = "Find sound requested. Use Stop to end it.";
+
+"Seamless earbud connection" = "Seamless earbud connection";
+
+"Pause media when an earbud is removed" = "Pause media when an earbud is removed";
+
+"Clearer calls" = "Clearer calls";
+
+"Advanced features" = "Advanced features";
+
+"Gesture controls" = "Gesture controls";
+
+"Single press" = "Single press";
+
+"Double press" = "Double press";
+
+"Triple press" = "Triple press";
+
+"Press and hold" = "Press and hold";
+
+"Answer or end calls" = "Answer or end calls";
+
+"Decline calls" = "Decline calls";
+
+"Left-right sound balance" = "Left-right sound balance";
+
+"Center balance" = "Center balance";
+
+"Seamless connection allows another paired device to take the earbuds. Samsung account auto-switch is managed by Galaxy devices." = "Seamless connection allows another paired device to take the earbuds. Samsung account auto-switch is managed by Galaxy devices.";
+
+"Case serial" = "Case serial";
+
+"Case software version" = "Case software version";
+
+"Detect sirens" = "Detect sirens";
+
+"Voice commands" = "Voice commands";
+
+"Adaptive volume" = "Adaptive volume";
+
+"Adjust sound to fit" = "Adjust sound to fit";
+
+"Boost dialogue" = "Boost dialogue";
+
+"Volume normalization" = "Volume normalization";
+
+"Swipe to adjust volume" = "Swipe to adjust volume";
+
+"Blade lights" = "Blade lights";
+
+"Lighting style" = "Lighting style";
+
+"Steady" = "Steady";
+
+"Blinking" = "Blinking";
+
+"Breathing" = "Breathing";
+
+"Pinch and hold both earbuds to turn the lights on or off." = "Pinch and hold both earbuds to turn the lights on or off.";
+
+"Head gestures" = "Head gestures";
+
+"Enable head gestures on this Mac" = "Enable head gestures on this Mac";
+
+"Positive gesture" = "Positive gesture";
+
+"Nod" = "Nod";
+
+"Shake head" = "Shake head";
+
+"Last detected gesture" = "Last detected gesture";
+
+"Positive" = "Positive";
+
+"Negative" = "Negative";
+
+"This Mac stores the detection preference. Call and assistant responses require integration with the app handling them." = "This Mac stores the detection preference. Call and assistant responses require integration with the app handling them.";
+
+"Select at least two modes." = "Select at least two modes.";
+
+"Sound quality and effects" = "Sound quality and effects";
+
+"Voice controls" = "Voice controls";
+
+"Manage connections" = "Manage connections";
+
+"Accessibility" = "Accessibility";
+
+"In-ear detection" = "In-ear detection";
+
+"Calls" = "Calls";
+
+"Name" = "Name";
+
+"Open equalizer" = "Open equalizer";
+
+"Uses the voice language currently installed on the earbuds." = "Uses the voice language currently installed on the earbuds.";
+
+
+
+"research.spatialAudio" = "360 audio and head tracking";
+
+"research.adaptSound" = "Adapt sound hearing profiles";
+
+"research.voiceLanguageDownload" = "Voice language model download";
+
+"research.deviceAutoSwitch" = "Samsung account auto-switch";
+
+"research.postureReminder" = "Neck stretch reminders";
+
+"research.advancedAudio" = "UHQ and super wideband voice";
+
+"research.fullDiagnostics" = "Full hardware diagnostics";
+
+"research.firmwareUpdate" = "Earbud firmware update";
+
+"research.headCallIntegration" = "Head gesture call and assistant integration";
+
+"Search settings categories" = "Search settings categories";
+
+"Toggle sidebar" = "Toggle sidebar";
+
+"Allow other paired devices to connect to your earbuds." = "Allow other paired devices to connect to your earbuds.";
+
+"Pause playback when an earbud is removed." = "Pause playback when an earbud is removed.";
+
+"Improve voice clarity during calls." = "Improve voice clarity during calls.";
+
+"Switch to ambient sound when a siren is detected." = "Switch to ambient sound when a siren is detected.";
+
+"Control playback and calls with voice commands." = "Control playback and calls with voice commands.";
+
+"Adjust volume automatically for your surroundings." = "Adjust volume automatically for your surroundings.";
+
+"Adjust sound using the fit of your earbuds." = "Adjust sound using the fit of your earbuds.";
+
+"Make speech clearer in media." = "Make speech clearer in media.";
+
+"Reduce differences in volume between audio sources." = "Reduce differences in volume between audio sources.";
+
+"Setting queued." = "Setting queued.";
+
+"The control channel is not ready yet." = "The control channel is not ready yet.";
+
+"Settings…" = "Settings…";
+
+"Digital assistant" = "Digital assistant";
+"Other app" = "Other app";
+"Google Assistant" = "Google Assistant";
+"Bixby" = "Bixby";
+
+"Development status" = "Development status";
+"Not implemented" = "Not implemented";
+"Protocol validation needed" = "Protocol validation needed";
+"Platform integration needed" = "Platform integration needed";
+"These features are not implemented. The statuses describe remaining development work, not device support." = "These features are not implemented. The statuses describe remaining development work, not device support.";
+
+"Reference implementation available" = "Reference implementation available";
+"Partial protocol documented" = "Partial protocol documented";
+"Device support needs validation" = "Device support needs validation";
+
+"Spatial audio" = "Spatial audio";
+"Firmware" = "Firmware";
+"Current version" = "Current version";
+"Firmware source" = "Firmware source";
+"Check for updates" = "Check for updates";
+"Choose firmware file…" = "Choose firmware file…";
+"Download" = "Download";
+"Selected firmware" = "Selected firmware";
+"Version" = "Version";
+"Bytes" = "Bytes";
+"Keep both earbuds charged above 30%, in the open case, and keep the Mac nearby." = "Keep both earbuds charged above 30%, in the open case, and keep the Mac nearby.";
+"Install firmware" = "Install firmware";
+"Update progress" = "Update progress";
+"Keep this app running until the installed version has been confirmed." = "Keep this app running until the installed version has been confirmed.";
+"Cancel transfer" = "Cancel transfer";
+"Install this firmware?" = "Install this firmware?";
+"Interrupting firmware installation can damage the earbuds. Confirm the model and version before continuing." = "Interrupting firmware installation can damage the earbuds. Confirm the model and version before continuing.";
+"Choose an update to begin." = "Choose an update to begin.";
+"Preparing…" = "Preparing…";
+"Sending firmware…" = "Sending firmware…";
+"Installing…" = "Installing…";
+"Waiting for restart and version confirmation…" = "Waiting for restart and version confirmation…";
+"Installed version confirmed." = "Installed version confirmed.";
+"No newer firmware is available." = "No newer firmware is available.";
+"The firmware file is incomplete." = "The firmware file is incomplete.";
+"Firmware model does not match the connected earbuds." = "Firmware model does not match the connected earbuds.";
+"Firmware checksum failed." = "Firmware checksum failed.";
+"This file isn't Galaxy Buds firmware." = "This file isn't Galaxy Buds firmware.";
+"The firmware file contains no data." = "The firmware file contains no data.";
+"No firmware is published for this model." = "No firmware is published for this model.";
+"The firmware archive couldn't be reached." = "The firmware archive couldn't be reached.";
+"The download wasn't a firmware image." = "The download wasn't a firmware image.";
+"revision" = "revision";
+"The update failed." = "The update failed.";
+"The earbuds didn't start the update." = "The earbuds didn't start the update.";
+"The update was cancelled." = "The update was cancelled.";
+"The earbuds disconnected during the update." = "The earbuds disconnected during the update.";
+"The earbuds refused to start the update." = "The earbuds refused to start the update.";
+"The earbuds stopped responding while preparing." = "The earbuds stopped responding while preparing.";
+"The earbuds asked for a part the firmware doesn't contain." = "The earbuds asked for a part the firmware doesn't contain.";
+"The earbuds stopped responding during the update." = "The earbuds stopped responding during the update.";
+"The earbuds stopped responding while installing." = "The earbuds stopped responding while installing.";
+"The earbuds couldn't install the firmware." = "The earbuds couldn't install the firmware.";
+"The earbuds couldn't verify the firmware." = "The earbuds couldn't verify the firmware.";
+"Firmware upload was verified, but the installed version was not confirmed. Reconnect to check it." = "Firmware upload was verified, but the installed version was not confirmed. Reconnect to check it.";
+"Wait for firmware installation to finish." = "Wait for firmware installation to finish.";
+"The earbuds did not return diagnostic results." = "The earbuds did not return diagnostic results.";
+"Hardware diagnostics" = "Hardware diagnostics";
+"Run hardware self-test" = "Run hardware self-test";
+"Waiting for diagnostic results…" = "Waiting for diagnostic results…";
+"Passed" = "Passed";
+"Failed" = "Failed";
+"System spatial audio requires macOS 14.2 or later." = "System spatial audio requires macOS 14.2 or later.";
+"The captured audio format is unsupported." = "The captured audio format is unsupported.";
+"Audio output changed. Restart spatial audio processing." = "Audio output changed. Restart spatial audio processing.";
+"Processes Mac audio locally with head tracking. macOS asks for system audio recording permission when enabled." = "Spatializes Mac stereo playback in a native virtual soundstage. Head tracking is optional. macOS asks for system audio recording permission when enabled.";
+"Spatial audio processing" = "Spatial audio processing";
+"Head tracking" = "Head tracking";
+"Connected" = "Connected";
+"Not active" = "Not active";
+"Recenter" = "Recenter";
+"Hardware version" = "Hardware version";
+"Touch firmware" = "Touch firmware";
+"Left Bluetooth address" = "Left Bluetooth address";
+"Right Bluetooth address" = "Right Bluetooth address";
+"Left charge percentage" = "Left charge percentage";
+"Right charge percentage" = "Right charge percentage";
+"Left battery voltage" = "Left battery voltage";
+"Right battery voltage" = "Right battery voltage";
+"Left battery current" = "Left battery current";
+"Right battery current" = "Right battery current";
+"Left accelerometer X" = "Left accelerometer X";
+"Left accelerometer Y" = "Left accelerometer Y";
+"Left accelerometer Z" = "Left accelerometer Z";
+"Right accelerometer X" = "Right accelerometer X";
+"Right accelerometer Y" = "Right accelerometer Y";
+"Right accelerometer Z" = "Right accelerometer Z";
+"Left proximity sensor" = "Left proximity sensor";
+"Right proximity sensor" = "Right proximity sensor";
+"Left temperature sensor" = "Left temperature sensor";
+"Right temperature sensor" = "Right temperature sensor";
+"Left hall sensor" = "Left hall sensor";
+"Right hall sensor" = "Right hall sensor";
+
+"Test head tracking sensor" = "Test head tracking sensor";
+"Stop head tracking test" = "Stop head tracking test";
+"No sensor data yet" = "No sensor data yet";
+"Sensor data received" = "Sensor data received";
+
+"System audio input" = "System audio input";
+"Receiving audio" = "Receiving audio";
+"No audio data yet" = "No audio data yet";
+
+
+"Audio processing exceeded its buffer limit. Original audio has been restored." = "Audio processing exceeded its buffer limit. Original audio has been restored.";
+
+"Start with a flat custom curve" = "Start with a flat custom curve";
+
+"Frequency bands" = "Frequency bands";
+
+"Reconnect" = "Reconnect";
+"This is an undocumented firmware self-test. A failed flag can also mean the firmware does not implement that check." = "This is an undocumented firmware self-test. A failed flag can also mean the firmware does not implement that check.";
+"Failed or unavailable" = "Failed or unavailable";
+"research.reason.buds3Pro.spatialAudio" = "Uses Apple native stereo spatialization and earbud head sensor data. Timbre and output latency differ from Samsung 360 Audio; listening validation remains incomplete and the feature is off by default.";
+"research.reason.buds3Pro.fullDiagnostics" = "Provides firmware self-test results. Undocumented flags may indicate an unavailable check and require individual interpretation.";
+"research.reason.buds3Pro.firmwareUpdate" = "Validates the firmware model, build and segment CRC, transfers data in response to the earbuds, then reads back the build after restart to confirm installation. Charging-case updates are not provided.";
+"research.reason.buds3Pro.advancedAudio" = "Samsung UHQ and super-wideband voice need compatible Galaxy codecs and system services unavailable through public macOS interfaces.";
+"research.reason.buds3Pro.deviceAutoSwitch" = "Samsung account auto-switch needs mobile/Galaxy system services. The Mac seamless connection switch only configures earbud connection behavior.";
+"research.reason.buds3Pro.notificationReading" = "Public macOS notification APIs manage this app’s notifications, without a general interface for reading other apps’ notifications.";
+"research.reason.buds3Pro.auracast" = "Public macOS Bluetooth APIs do not provide the complete broadcast audio discovery/join interfaces this app needs; an earbud capability identifier does not supply host support.";
+"research.reason.buds3Pro.postureReminder" = "Samsung reminders need mobile calibration and posture services. This app does not supply phone posture data or invent a health assessment algorithm.";
+"research.reason.buds3Pro.voiceLanguageDownload" = "Models are bundled with the Samsung mobile plugin. Neither reference project provides an independent model source and complete installer. Installed-version confirmation and recovery lack Mac device evidence; voice commands use the model already in the earbuds.";
+"research.reason.buds3Pro.adaptSound" = "Only hearing-profile status fields are confirmed. Complete coefficient formats, test-volume calibration and safe write specifications are missing; this app does not generate unvalidated hearing profiles.";
+"research.reason.buds4Pro.spatialAudio" = "Continuous Mac audio and correct head-tracking directions were verified on Buds4 Pro. Native Apple stereo spatialization has a different timbre and output latency from Samsung 360 Audio.";
+"research.reason.buds4Pro.fullDiagnostics" = "Provides firmware self-test results. Undocumented flags may indicate an unavailable check and require individual interpretation.";
+"research.reason.buds4Pro.firmwareUpdate" = "Image, model, segment CRC, transfer and restart confirmation are implemented. Actual flashing requires explicit confirmation of newer firmware.";
+"research.reason.buds4Pro.advancedAudio" = "Samsung UHQ and super-wideband voice need compatible Galaxy codecs and system services unavailable through public macOS interfaces.";
+"research.reason.buds4Pro.deviceAutoSwitch" = "Samsung account auto-switch needs mobile/Galaxy system services. The Mac seamless connection switch only configures earbud connection behavior.";
+"research.reason.buds4Pro.notificationReading" = "Public macOS notification APIs manage this app’s notifications, without a general interface for reading other apps’ notifications.";
+"research.reason.buds4Pro.headCallIntegration" = "Mac lacks a general public interface for controlling other apps’ calls and Bixby; gesture settings and events remain available.";
+"research.reason.buds4Pro.auracast" = "Public macOS Bluetooth APIs do not provide the complete broadcast audio discovery/join interfaces this app needs; an earbud capability identifier does not supply host support.";
+"research.reason.buds4Pro.postureReminder" = "Samsung reminders need mobile calibration and posture services. This app does not supply phone posture data or invent a health assessment algorithm.";
+"research.reason.buds4Pro.voiceLanguageDownload" = "Models are bundled with the Samsung mobile plugin. Neither reference project provides an independent model source and complete installer. Installed-version confirmation and recovery lack Mac device evidence; voice commands use the model already in the earbuds.";
+"research.reason.buds4Pro.adaptSound" = "Only hearing-profile status fields are confirmed. Complete coefficient formats, test-volume calibration and safe write specifications are missing; this app does not generate unvalidated hearing profiles.";
+"Implemented; hardware validation pending" = "Implemented; hardware validation pending";
+"Verified" = "Verified";
+"Partially supported" = "Partially supported";
+"Unavailable on this platform" = "Unavailable on this platform";
+"Complete protocol unavailable" = "Complete protocol unavailable";
+"Statuses distinguish implementation, device validation and platform limitations for the current model." = "Statuses distinguish implementation, device validation and platform limitations for the current model.";
+
+"Privacy and permissions" = "Privacy and permissions";
+
+"Bluetooth permission" = "Bluetooth permission";
+
+"Bluetooth access is required to discover and control paired earbuds." = "Bluetooth access is required to discover and control paired earbuds.";
+
+"Open Bluetooth privacy settings" = "Open Bluetooth privacy settings";
+
+"System audio capture" = "System audio capture";
+
+"Capturing audio" = "Capturing audio";
+
+"Not capturing audio" = "Not capturing audio";
+
+"Optional spatial audio requests system audio recording permission when enabled. Audio is processed locally without saving or uploading. Check the permission switch in System Settings." = "Optional spatial audio requests system audio recording permission when enabled. Audio is processed locally without saving or uploading. Check the permission switch in System Settings.";
+
+"Open system audio privacy settings" = "Open system audio privacy settings";
+
+"Allowed" = "Allowed";
+
+"Denied" = "Denied";
+
+"Restricted by system policy" = "Restricted by system policy";
+
+"Not requested" = "Not requested";
+
+"Unknown" = "Unknown";
+
+"Decrease level" = "Decrease level";
+
+"Increase level" = "Increase level";
+
+"No system audio data. Check the audio recording permission and restart playback." = "No system audio data. Check the audio recording permission and restart playback.";
+
+"Virtual speaker angle" = "Virtual speaker angle";
+
+"macOS chooses the highest-quality native headphone renderer. Speaker angle changes the width of the virtual stereo soundstage." = "macOS chooses the highest-quality native headphone renderer. Speaker angle changes the width of the virtual stereo soundstage.";
+
+"The firmware version does not match the filename." = "The firmware version does not match the filename.";
+
+"Follow head movement" = "Follow head movement";
+
+"Login item status" = "Login item status";
+
+"Open login item settings" = "Open login item settings";
+
+"Not registered" = "Not registered";
+
+"Requires system approval" = "Requires system approval";
+
+
+"color.buds3Pro.silver" = "Silver";
+
+"color.buds3Pro.white" = "White";
+
+"color.buds4Pro.white" = "White";
+
+"color.buds4Pro.black" = "Black";
+
+"color.buds4Pro.pinkGold" = "Pink Gold";
+
+"Waiting for playback audio" = "Waiting for playback audio";
+
+"Login item unavailable" = "Login item unavailable";
+
+"Verified resource source unavailable" = "Verified resource source unavailable";
+
+"Minimum earbud charge" = "Minimum earbud charge";
+
+"Keep both earbuds in the open case and keep the Mac nearby." = "Keep both earbuds in the open case and keep the Mac nearby.";
+
+"Available update" = "Available update";
+
+"Latest compatible version" = "Latest compatible version";
+
+"Download latest firmware" = "Download latest firmware";
+
+"Other newer versions" = "Other newer versions";
+
+"Validating firmware file…" = "Validating firmware file…";
+
+"Checking for firmware updates…" = "Checking for firmware updates…";
+
+"Downloading and validating firmware…" = "Downloading and validating firmware…";
+
+"The archive has no firmware matching this device's region." = "The archive has no firmware matching this device's region.";
+
+"Samsung update information" = "Samsung update information";
+
+"Third-party firmware archive" = "Third-party firmware archive";
+
+"The archive collects Samsung OTA files. Its list is separate from the official update availability for your earbuds." = "The archive collects Samsung OTA files. Its list is separate from the official update availability for your earbuds.";
+
+"Check archived versions" = "Check archived versions";
+
+"Latest archived version for this model" = "Latest archived version for this model";
+
+"Download archived firmware" = "Download archived firmware";
+
+"The archive has no firmware matching this device's build family." = "The archive has no firmware matching this device's build family.";
+
+"The archive has no version newer than the installed firmware." = "The archive has no version newer than the installed firmware.";
+
+"Back" = "Back";
+
+"Forward" = "Forward";
