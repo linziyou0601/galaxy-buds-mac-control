@@ -298,7 +298,7 @@ SPP 採用 modern 組框、10-bit 長度與 CRC-16/CCITT。未知合法事件整
 
 ### GitHub Actions
 
-[release.yml](.github/workflows/release.yml) 由推送 `v*` tag 觸發，在 macOS runner 執行檢查與測試，再呼叫 `package.sh`。標籤透過 `BUDS_RELEASE_TAG` 傳入建置入口，只用來檢查來源版本，例如 `v0.1.0` 必須對應 `0.1.0`，不一致時停止建置。建置編號直接讀取來源，pipeline 執行次數不影響 App 版本。
+[release.yml](.github/workflows/release.yml) 由推送 `v*` tag 觸發，在 `xcode-27` runner 使用 Xcode 27 與 macOS SDK 27 執行檢查與測試，再呼叫 `package.sh`。標籤透過 `BUDS_RELEASE_TAG` 傳入建置入口，只用來檢查來源版本，例如 `v0.1.0` 必須對應 `0.1.0`，不一致時停止建置。建置編號直接讀取來源，pipeline 執行次數不影響 App 版本。
 
 DMG 與 SHA-256 檔隨 GitHub Release 上傳，Release 使用標籤與自動產生的說明。workflow 使用 GitHub 提供的 token，簽章預設為 ad-hoc。Developer ID 與公證需要發佈者另外設定。workflow 的本機腳本可獨立驗證，雲端發行結果以實際 Actions 執行記錄為準。
 

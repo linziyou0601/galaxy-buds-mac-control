@@ -15,11 +15,12 @@ concurrency:
 
 jobs:
   release:
-    runs-on: macos-26
+    # 原始碼使用 SDK 27 的音訊 API，建置環境需提供 Xcode 27。
+    runs-on: xcode-27
     timeout-minutes: 30
     steps:
       - name: Check out tagged source
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       # 驗證與本機共用腳本，封裝採目前預設的 ad-hoc 簽章。
       - name: Verify source and resources
