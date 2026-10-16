@@ -1,0 +1,331 @@
+English	簡體中文	大陸寫法	正體中文	分類	規則	例外
+AI (Artificial Intelligence)	人工智能	人工智能	人工智慧	基礎術語	簡繁用語（一對一）	-
+Abstract Class	抽象类	-	抽象類別	物件導向	-	-
+Access Control	访问控制	訪問控制	存取控制	權限與安全	簡繁用語（一對一）	-
+Accessibility Test	可访问性测试	-	可存取性測試	其他常用術語	-	-
+Activate	激活	激活	啟用	基礎術語	簡繁用語（一對一）	-
+Adapter	適配器	-	配接器	基礎術語	-	-
+Add	添加	-	加入	基礎術語	-	-
+Address	地址	地址	位址	基礎術語	簡繁用語（依語意）	-
+Advanced	高級	-	進階	基礎術語	-	-
+Aggregate	聚合	-	彙總	查詢與搜索	-	-
+Alert	提示框	提示框	提示方塊	訊息與通知	簡繁用語（一對一）	-
+Algorithm	算法	算法	演算法	基礎術語	簡繁用語（一對一）	-
+Allocate	分配	-	配置	基礎術語	-	-
+Allocator	分配器	-	配置器	基礎術語	-	-
+Annotation / Comment	注释	注釋	註解	基礎術語	簡繁用語（依語意）	-
+App Bundle	应用程序包	-	應用程式套件組合	基礎術語	-	-
+Application	应用程序	應用程序	應用程式	平台與系統	簡繁用語（一對一）	-
+Apply	应用	-	套用	基礎術語	-	-
+Argument	参数	-	引數	基礎術語	-	-
+Arity	参数数量	-	元數	基礎術語	-	-
+Array	数组	數組	陣列	基礎術語	簡繁用語（一對一）	-
+Assembly Language	汇编语言	-	組合語言	基礎術語	-	-
+Assert	断言	-	判斷提示	基礎術語	-	-
+Assignment	赋值	-	指派	基礎術語	-	-
+Assignment Operator	赋值运算符	-	指派運算子	基礎術語	-	-
+Async	异步	-	非同步	其他常用術語	-	-
+Asynchronous	异步	異步	非同步	基礎術語	簡繁用語（一對一）	-
+Atomic	原子的	-	不可分割的	基礎術語	-	-
+Audio	音频	音頻	音訊	基礎術語	簡繁用語（一對一）	-
+Backend Test	后端测试	-	後端測試	其他常用術語	-	-
+Background Processes	后台进程	-	背景程序	基礎術語	-	-
+Bandwidth	带宽	帶寬	頻寬	基礎術語	簡繁用語（一對一）	-
+Base Class	基类	-	基底類別	基礎術語	-	-
+Base URL	基底网址	-	基底網址	平台與系統	-	-
+Batch	批处理	-	批次處理	基礎術語	-	-
+Binary Function	二元函数	-	二元函式	基礎術語	-	-
+Binary Operator	二元运算符	-	二元運算子	基礎術語	-	-
+Binary Search	二分查找	-	二元搜尋法	基礎術語	-	-
+Binary Tree	二叉树	-	二元樹	基礎術語	-	-
+Bind	绑定	-	繫結	基礎術語	-	-
+Bit	位	-	位元	基礎術語	-	-
+Bitrate	比特率	比特率	位元率	基礎術語	簡繁用語（一對一）	-
+Block	代码块	-	程式碼區塊	基礎術語	-	-
+Block	阻止	-	封鎖	基礎術語	-	-
+Blog	博客	博客	部落格	其他常用術語	簡繁用語（一對一）	-
+Boolean	布尔	布爾	布林	基礎術語	簡繁用語（一對一）	-
+Breadcrumb	面包屑	-	麵包屑	使用者介面	-	-
+Breakpoint	断点	-	中斷點	基礎術語	-	-
+Build	构建	構建	建構	基礎術語	簡繁用語（一對一）	-
+Build Tool	构建工具	構建工具	建構工具	其他常用術語	簡繁用語（一對一）	-
+Built-in	内置	內置	內建	基礎術語	簡繁用語（一對一）	-
+Bundle	捆绑包	-	組合包	基礎術語	-	-
+Bundler	打包器	-	打包器	其他常用術語	-	-
+Burn	刻录	刻錄	燒錄	基礎術語	簡繁用語（一對一）	-
+Bus	总线	總線	匯流排	基礎術語	簡繁用語（一對一）	-
+Button	按钮	-	按鈕	使用者介面	-	-
+Byte	字节	字節	位元組	基礎術語	簡繁用語（一對一）	識別字節點
+Cache	缓存	緩存	快取	基礎術語	簡繁用語（一對一）	-
+Call	调用	調用	呼叫	基礎術語	簡繁用語（一對一）	強調用
+Callback	回调	回調	回呼	基礎術語	簡繁用語（一對一）	退回調撥
+Cancelled	已取消	-	已取消	操作與狀態	-	-
+Carriage Return	回车符	-	回車字元	基礎術語	-	-
+Cell	格	-	儲存格	表單與驗證	-	-
+Certificate	证书	證書	憑證	基礎術語	簡繁用語（依語意）	-
+Character	字符	字符	字元	基礎術語	簡繁用語（一對一）	文字符號
+Checkbox	复选框	復選框	核取方塊	基礎術語	簡繁用語（一對一）	-
+Class	类	-	類別	基礎術語	-	-
+Click	点击	-	點選	基礎術語	-	-
+Client	客户端	客戶端	用戶端	基礎術語	簡繁用語（依語意）	-
+Client-Side Test	客户端测试	-	用戶端測試	其他常用術語	-	-
+Clipboard	剪贴板	剪貼板	剪貼簿	基礎術語	簡繁用語（一對一）	-
+Clone	克隆	克隆	複製	基礎術語	簡繁用語（依語意）	-
+Close	关闭	-	關閉	操作與狀態	-	-
+Cloud Computing	云计算	雲計算	雲端運算	基礎術語	簡繁用語（一對一）	-
+Code	代码	-	程式碼	基礎術語	-	-
+Code Coverage	代码覆盖	代碼覆蓋	程式碼涵蓋率	其他常用術語	簡繁用語（一對一）	-
+Collaborate	协作	-	協同合作	基礎術語	-	-
+Column	列	-	欄	表單與驗證	-	-
+Combo Box	组合框	組合框	組合方塊	基礎術語	簡繁用語（一對一）	-
+Command	命令	-	指令	基礎術語	-	-
+Command Line	命令行	命令行	命令列	基礎術語	簡繁用語（一對一）	-
+Communication	通信	通信	通訊	基礎術語	簡繁用語（依語意）	-
+Community	社区	社區	社群	基礎術語	簡繁用語（依語意）	-
+Compatibility	兼容性	兼容性	相容性	基礎術語	簡繁用語（一對一）	-
+Compatibility Test	兼容性测试	-	相容性測試	其他常用術語	-	-
+Compatible	兼容的	兼容的	相容的	基礎術語	簡繁用語（一對一）	-
+Compile Time	编译时	-	編譯時期	編譯與建構	-	-
+Complete	完成	-	完成	操作與狀態	-	-
+Concurrency	并发	並發	並行	行程與執行緒	簡繁用語（一對一）	並發送、並發布、並發佈、並發出、並發起
+Concurrency	并发性	並發性	並行性	基礎術語	簡繁用語（一對一）	-
+Concurrent	并发的	並發的	並行的	基礎術語	簡繁用語（一對一）	-
+Condition	条件	-	條件	查詢與搜索	-	-
+Connect	连接	-	連線	基礎術語	-	-
+Constant	常量	常量	常數	基礎術語	簡繁用語（一對一）	-
+Constructor	构造函数	構造函數	建構子	基礎術語	簡繁用語（一對一）	-
+Content	内容	-	內容	表單與驗證	-	-
+Continuous Integration	持续集成	持續集成	持續整合	基礎術語	簡繁用語（一對一）	-
+Control	控件	控件	控制元件	基礎術語	簡繁用語（一對一）	-
+Crash	崩溃	-	當機	基礎術語	-	-
+Create	创建	創建	建立	基礎術語	簡繁用語（依語意）	-
+Created At	创建时间	創建時間	建立時間	時間與日期	簡繁用語（一對一）	-
+Created By	创建者	創建者	建立人員	時間與日期	簡繁用語（一對一）	-
+Cross-Browser Test	跨浏览器测试	-	跨瀏覽器測試	其他常用術語	-	-
+Cross-Platform Test	跨平台测试	-	跨平台測試	其他常用術語	-	-
+Current	当前	當前	目前	基礎術語	簡繁用語（依語意）	-
+Current, Present	当前	-	目前	其他常用術語	-	-
+Cursor	光标	光標	游標	基礎術語	簡繁用語（一對一）	-
+Custom	自定义	自定義	自訂	基礎術語	簡繁用語（一對一）	-
+Data	数据	數據	資料	資料與資料庫	簡繁用語（依語意）	-
+Data Layer	数据层	數據層	資料層	平台與系統	簡繁用語（一對一）	-
+Data Link Layer	数据链路层	-	資料連結層	資料與資料庫	-	-
+Data Structure	数据结构	數據結構	資料結構	資料與資料庫	簡繁用語（一對一）	-
+Database	数据库	數據庫	資料庫	資料與資料庫	簡繁用語（一對一）	-
+Database Schema	数据库模式	數據庫模式	資料庫綱要	資料與資料庫	簡繁用語（一對一）	-
+Database Test	数据库测试	數據庫測試	資料庫測試	其他常用術語	簡繁用語（一對一）	-
+Day (d)	天	-	天	基礎術語	-	-
+Deactivate	停用	-	停用	操作與狀態	-	-
+Deadlock	死锁	-	死結	資料與資料庫	-	-
+Debug	调试	調試	除錯	資料與資料庫	簡繁用語（一對一）	-
+Debug Tool	调试工具	調試工具	除錯工具	其他常用術語	簡繁用語（一對一）	-
+Declaration	声明	聲明	宣告	基礎術語	簡繁用語（依語意）	免責聲明
+Deduplicate	去重	去重	去除重複	操作與狀態	簡繁用語（依語意）	-
+Default	默认	默認	預設	資料與資料庫	簡繁用語（一對一）	-
+Default Export	默认导出	默認導出	預設匯出	其他常用術語	簡繁用語（一對一）	-
+Delete	删除	-	刪除	操作與狀態	-	-
+Dependency	依赖	-	相依	資料與資料庫	-	-
+Device	设备	-	裝置	資料與資料庫	-	-
+Dialog	对话框	對話框	對話方塊	使用者介面	簡繁用語（依語意）	-
+Dictionary	字典	-	字典	資料結構	-	-
+Disable	禁用	-	停用	操作與狀態	-	-
+Disconnect	断开连接	-	中斷連線	資料與資料庫	-	-
+Distributed	分布式	分布式	分散式	資料與資料庫	簡繁用語（一對一）	-
+Document	文档	文檔	文件	資料與資料庫	簡繁用語（一對一）	-
+Documentation	文档	-	文件	文檔與說明	-	-
+Domain Name	域名	域名	網域名稱	資料與資料庫	簡繁用語（依語意）	區域名稱、區域名、網域名稱
+Driver	驱动程序	驅動程序	驅動程式	資料與資料庫	簡繁用語（一對一）	-
+Dropdown	下拉框	下拉框	下拉方塊	使用者介面	簡繁用語（一對一）	-
+Edge	边	-	邊	資料結構	-	-
+Edit	编辑	-	編輯	操作與狀態	-	-
+Effective Window / Validity Period	生效窗	-	生效範圍 / 生效時間段	時間與日期	-	-
+Enable	启用	-	啟用	操作與狀態	-	-
+End User	终端用户	終端用戶	終端使用者	編輯與執行	簡繁用語（一對一）	-
+End-to-End Test	端到端测试	端到端測試	端對端測試	其他常用術語	簡繁用語（一對一）	-
+Endpoint	端点	-	端點	平台與系統	-	-
+Enum	枚举	枚舉	列舉	其他常用術語	簡繁用語（一對一）	-
+Error	错误	-	錯誤	操作與狀態	-	-
+Executable File	执行文件	執行文件	執行檔	編輯與執行	簡繁用語（一對一）	-
+Expiration Date	有效期	-	有效期限	時間與日期	-	-
+Export	导出	-	匯出	其他常用術語	-	-
+Expose	揭露 / 暴露	-	出示 / 顯示 / 公開	基礎術語	-	-
+Expression	表达式	表達式	運算式	查詢與搜索	簡繁用語（依語意）	-
+Extension	扩展	-	擴充	編輯與執行	-	-
+Extract	提取	-	擷取	編輯與執行	-	-
+Failure	失败	-	失敗	操作與狀態	-	-
+Field	字段	字段	欄位	表單與驗證	簡繁用語（一對一）	-
+File	文件	-	檔案	文件與檔案	-	-
+Filter	筛选	-	篩選	使用者介面	-	-
+Filter	过滤	-	篩選	查詢與搜索	-	-
+Folder	文件夹	文件夾	資料夾	文件與檔案	簡繁用語（一對一）	-
+Frontend Test	前端测试	-	前端測試	其他常用術語	-	-
+Full-Stack Test	全栈测试	全棧測試	全端測試	其他常用術語	簡繁用語（一對一）	-
+Function	函数	函數	函式	函數與方法	簡繁用語（依語意）	-
+Generator	生成器	生成器	產生器	其他常用術語	簡繁用語（依語意）	-
+Gigabyte (GB)	吉字节	-	十億位元組	基礎術語	-	-
+Gigahertz (GHz)	吉赫	-	十億赫茲	基礎術語	-	-
+Global	全局	全局	全域	其他常用術語	簡繁用語（一對一）	-
+Graph	图	-	圖	資料結構	-	-
+Group	分组	-	群組	查詢與搜索	-	-
+Hardware	硬件	硬件	硬體	平台與系統	簡繁用語（一對一）	-
+Hash	哈希	哈希	雜湊	資料結構	簡繁用語（一對一）	-
+Heap	堆	-	堆積	資料結構	-	-
+Hour (h)	小时	-	小時	基礎術語	-	-
+Icon	图标	圖標	圖示	使用者介面	簡繁用語（一對一）	圖標準
+Identity	身份	-	身分	權限與安全	-	-
+Image	图片	-	圖片	使用者介面	-	-
+Immediately, Right Now	立马	立馬	立刻、馬上	其他常用術語	簡繁用語（一對一）	-
+Implement	实现	-	實作	物件導向	-	-
+Import	导入	-	匯入	其他常用術語	-	-
+In Progress	进行中	-	進行中	操作與狀態	-	-
+Info	信息	信息	資訊	測試與除錯	簡繁用語（依語意）	-
+Input	输入框	-	輸入框	使用者介面	-	-
+Instance	实例	-	實體	物件導向	-	-
+Integration Test	集成测试	集成測試	整合測試	其他常用術語	簡繁用語（一對一）	-
+Interface	接口	接口	介面	物件導向	簡繁用語（依語意）	-
+Interface Test	接口测试	-	介面測試	其他常用術語	-	-
+Interpreter	解释器	解釋器	直譯器	編譯與建構	簡繁用語（一對一）	-
+Iterator	迭代器	-	迭代器	其他常用術語	-	-
+Kilobyte (KB)	千字节	-	千位元組	基礎術語	-	-
+Kilohertz (KHz)	千赫	-	千赫茲	基礎術語	-	-
+Label	标签	-	標籤	表單與驗證	-	-
+Layout	布局	布局	版面 / 排版	使用者介面	簡繁用語（依語意）	-
+Lazy Load	懒加载	懶加載	延遲載入	編譯與建構	簡繁用語（一對一）	-
+Library	库	-	函式庫	專案管理	-	-
+Limit	限制	-	限制	查詢與搜索	-	-
+Line	行	-	行	表單與驗證	-	-
+Link	链接	鏈接	連結	文件與檔案	簡繁用語（一對一）	-
+Linked List	链表	鏈表	鏈結串列	資料結構	簡繁用語（一對一）	-
+Linker	链接器	-	連結器	編譯與建構	-	-
+Load	加载	加載	載入	編譯與建構	簡繁用語（一對一）	增加載入
+Loader	加载器	加載器	載入器	編譯與建構	簡繁用語（一對一）	-
+Loading	加载中	加載中	載入中	操作與狀態	簡繁用語（一對一）	-
+Local	局部	-	區域	其他常用術語	-	-
+Login	登录	-	登入	權限與安全	-	-
+Logout	登出	-	登出	權限與安全	-	-
+Map	映射	-	對應	資料結構	-	-
+Megabyte (MB)	兆字节	-	百萬位元組	基礎術語	-	-
+Megahertz (MHz)	兆赫	-	百萬赫茲	基礎術語	-	-
+Memory	内存	內存	記憶體	其他常用術語	簡繁用語（一對一）	內存在、內存活
+Memory Profiling	内存分析	內存分析	記憶體分析	其他常用術語	簡繁用語（一對一）	-
+Menu	菜单	菜單	選單	使用者介面	簡繁用語（一對一）	-
+Microsecond (μs)	微秒	-	微秒	基礎術語	-	-
+Middleware	中间件	中間件	中介軟體	平台與系統	簡繁用語（一對一）	-
+Millisecond (ms)	毫秒	-	毫秒	基礎術語	-	-
+Minute (min)	分钟	-	分鐘	基礎術語	-	-
+Mobile Test	移动端测试	移動端測試	行動端測試	其他常用術語	簡繁用語（一對一）	-
+Mock Data	模拟数据	模擬數據	模擬資料	其他常用術語	簡繁用語（一對一）	-
+Modal	模态框	模態框	模態方塊	使用者介面	簡繁用語（一對一）	-
+Modify	修改	-	修改	操作與狀態	-	-
+Module	模块	模塊	模組	專案管理	簡繁用語（一對一）	-
+Month	月	-	月	基礎術語	-	-
+Mouse	鼠标	鼠標	滑鼠	使用者介面	簡繁用語（一對一）	-
+Named Export	命名导出	-	命名匯出	其他常用術語	-	-
+Nanosecond (ns)	纳秒	-	奈秒	基礎術語	-	-
+Navigation Bar	导航栏	導航欄	導覽列	使用者介面	簡繁用語（一對一）	-
+Network	网络	網絡	網路	網路與通訊	簡繁用語（一對一）	-
+Network Profiling	网络分析	-	網路分析	其他常用術語	-	-
+No Data	无数据	無數據	無資料	查詢與搜索	簡繁用語（一對一）	-
+Node	节点	-	節點	資料結構	-	-
+Notification Bar	通知栏	通知欄	通知列	訊息與通知	簡繁用語（一對一）	-
+Object	对象	-	物件	物件導向	-	-
+Object-Oriented	面向对象	面向對象	物件導向	物件導向	簡繁用語（一對一）	-
+Offset	偏移	-	偏移	查詢與搜索	-	-
+Open	打开	-	開啟	操作與狀態	-	-
+Operand	操作数	操作數	運算元	查詢與搜索	簡繁用語（一對一）	-
+Operator	操作符	操作符	運算子	查詢與搜索	簡繁用語（一對一）	-
+Operator	运算符	運算符	運算子	查詢與搜索	簡繁用語（一對一）	-
+Page	页面	-	頁面	使用者介面	-	-
+Pagination	分页	-	分頁	使用者介面	-	-
+Panel	面板	-	面板	使用者介面	-	-
+Parallelism	并行	-	平行	行程與執行緒	-	-
+Parameter	参数	-	參數	函數與方法	-	-
+Pending	待处理	-	待處理	操作與狀態	-	-
+Performance	性能	性能	效能	其他常用術語	簡繁用語（依語意）	-
+Performance Profiling	性能分析	性能分析	效能分析	其他常用術語	簡繁用語（一對一）	-
+Performance Test	性能测试	-	效能測試	其他常用術語	-	-
+Petabyte (PB)	拍字节	-	千兆位元組	基礎術語	-	-
+Placeholder	占位符	占位符	佔位符號	其他常用術語	簡繁用語（一對一）	-
+Plugin	插件	插件	延伸模組	專案管理	簡繁用語（依語意）	-
+Polymorphism	多态	多態	多型	物件導向	簡繁用語（一對一）	-
+Process	进程	進程	行程	行程與執行緒	簡繁用語（依語意）	-
+Progress Bar	进度条	-	進度列	使用者介面	-	-
+Project	项目	-	專案	專案管理	-	-
+Protocol	协议	協議	協定	網路與通訊	簡繁用語（依語意）	-
+Pseudocode	伪代码	偽代碼	虛擬碼	基礎術語	簡繁用語（一對一）	-
+Query	查询	-	查詢	查詢與搜索	-	-
+Queue	队列	隊列	佇列	資料結構	簡繁用語（一對一）	-
+Radio Button	单选按钮	-	單選按鈕	使用者介面	-	-
+Readonly	只读	-	唯讀	其他常用術語	-	-
+Recursion	递归	遞歸	遞迴	函數與方法	簡繁用語（一對一）	-
+Redo	重做	-	重做	操作與狀態	-	-
+Refresh	刷新	-	重新整理	操作與狀態	-	-
+Reload	重新加载	重新加載	重新載入	操作與狀態	簡繁用語（一對一）	-
+Repository	仓库	-	儲存庫	版本控制	-	-
+Reset	重置	-	重設	操作與狀態	-	-
+Reset to Zero	清零	清零	歸零	操作與狀態	簡繁用語（一對一）	-
+Response	响应	-	回應	網路與通訊	-	-
+Restore	恢复	-	還原	操作與狀態	-	-
+Return Value	返回值	-	傳回值	函數與方法	-	-
+Right Now, At The Moment	眼下	-	當下	其他常用術語	-	-
+Row	行	-	列	表單與驗證	-	-
+Runtime	运行时	運行時	執行時期	編譯與建構	簡繁用語（一對一）	-
+Save	保存	-	儲存	操作與狀態	-	-
+Screen	屏幕	屏幕	螢幕	使用者介面	簡繁用語（一對一）	-
+Search	搜索	搜索	搜尋	查詢與搜索	簡繁用語（一對一）	-
+Second (s)	秒	-	秒	基礎術語	-	-
+Select	下拉列表	下拉列表	下拉清單	使用者介面	簡繁用語（一對一）	-
+Server	服务器	服務器	伺服器	網路與通訊	簡繁用語（一對一）	-
+Server-Side Test	服务器端测试	-	伺服器端測試	其他常用術語	-	-
+Set	集合	-	集合	資料結構	-	-
+Settings	设置	設置	設定	操作與狀態	簡繁用語（依語意）	-
+Sidebar	侧边栏	-	側邊欄	使用者介面	-	-
+Slider	滑块	滑塊	滑桿	使用者介面	簡繁用語（一對一）	-
+Software	软件	軟件	軟體	平台與系統	簡繁用語（一對一）	-
+Sort	排序	-	排序	使用者介面	-	-
+Stack	堆栈	堆棧	堆疊	測試與除錯	簡繁用語（一對一）	-
+Stack	栈	-	堆疊	資料結構	-	-
+Standard Library	标准库	標準庫	標準函式庫	專案管理	簡繁用語（一對一）	-
+Status Bar	状态栏	狀態欄	狀態列	使用者介面	簡繁用語（一對一）	狀態欄位
+Success	成功	-	成功	操作與狀態	-	-
+Support	支持	支持	支援	基礎術語	簡繁用語（依語意）	-
+Tab	标签页	-	標籤頁	使用者介面	-	-
+Table	表	-	表格	表單與驗證	-	-
+Terabyte (TB)	太字节	-	兆位元組	基礎術語	-	-
+Terahertz (THz)	太赫	-	兆赫茲	基礎術語	-	-
+Terminal	终端	-	終端機	編輯與執行	-	-
+Test Case	测试用例	測試用例	測試案例	其他常用術語	簡繁用語（一對一）	-
+Test Coverage	测试覆盖率	-	測試涵蓋率	其他常用術語	-	-
+Test Data	测试数据	-	測試資料	其他常用術語	-	-
+Test Runner	测试运行器	-	測試執行器	其他常用術語	-	-
+Test Suite	测试套件	-	測試套件	其他常用術語	-	-
+Textarea	文本域	文本域	文字區域	使用者介面	簡繁用語（一對一）	-
+Textbox	文本框	文本框	文字框	使用者介面	簡繁用語（一對一）	-
+Thread	线程	線程	執行緒	行程與執行緒	簡繁用語（一對一）	-
+Thread Safety	线程安全	線程安全	執行緒安全	行程與執行緒	簡繁用語（一對一）	-
+Timeout	超时	超時	逾時	網路與通訊	簡繁用語（依語意）	-
+Timestamp	时间戳	時間戳	時間戳記	時間與日期	簡繁用語（一對一）	-
+Title	标题	-	標題	表單與驗證	-	-
+Token	令牌	令牌	權杖	權限與安全	簡繁用語（一對一）	-
+Toolbar	工具栏	工具欄	工具列	使用者介面	簡繁用語（一對一）	-
+Transaction	事務	-	交易	基礎術語	-	-
+Tree	树	-	樹	資料結構	-	-
+Trillion	万亿（数学）	-	兆（數學）	基礎術語	-	-
+Type	类型	-	型別	其他常用術語	-	-
+Type Alias	类型别名	類型別名	型別別名	其他常用術語	簡繁用語（一對一）	-
+Type Definition	类型定义	類型定義	型別定義	其他常用術語	簡繁用語（一對一）	訊息類型定義、通知類型定義、事件類型定義
+Undo	撤销	-	復原	操作與狀態	-	-
+Update	更新	-	更新	操作與狀態	-	-
+Updated At	更新时间	-	更新時間	時間與日期	-	-
+Updated By	更新者	-	更新人員	時間與日期	-	-
+User	用户	用戶	使用者	權限與安全	簡繁用語（依語意）	用戶端
+User Experience (UX)	用户体验	用戶體驗	使用者體驗	使用者介面	簡繁用語（一對一）	-
+User Interface (UI)	用户界面	用戶界面	使用者介面	使用者介面	簡繁用語（一對一）	-
+Variable	变量	變量	變數	函數與方法	簡繁用語（一對一）	-
+Vertex	顶点	-	頂點	資料結構	-	-
+Video	视频	視頻	影片	基礎術語	簡繁用語（一對一）	-
+View	视图	視圖	檢視	使用者介面	簡繁用語（依語意）	-
+Warning	警告	-	警告	操作與狀態	-	-
+Week	周	-	週	基礎術語	-	-
+Window	窗口	窗口	視窗	使用者介面	簡繁用語（依語意）	-
+Year	年	-	年	基礎術語	-	-

@@ -1,0 +1,92 @@
+條目	段落	參照	檢查主題
+ART-COMM-01	交流殘留	references/writing/prose-communication.md#聊天回覆殘留	沒有聊天回覆殘留
+ART-COMM-02	交流殘留	references/writing/prose-communication.md#知識截止免責與臆測填空	沒有免責聲明與臆測填空
+ART-COMM-03	交流殘留	references/writing/prose-communication.md#諂媚語氣	沒有諂媚語氣
+ART-CONTENT-01	內容模式	references/writing/prose-narrative.md#意義渲染	沒有過度渲染意義
+ART-CONTENT-02	內容模式	references/writing/prose-narrative.md#句尾補述式的偽分析	沒有句尾補述式的偽分析
+ART-CONTENT-03	內容模式	references/writing/prose-narrative.md#宣傳語	沒有宣傳式語言
+ART-CONTENT-04	內容模式	references/writing/prose-narrative.md#模糊歸因	歸因有具體來源
+ART-CONTENT-05	內容模式	references/writing/prose-narrative.md#「挑戰與展望」段落	沒有公式化的「挑戰與展望」段落
+ART-CORE-01	核心原則	SKILL.md#核心原則	段落直接進入內容，沒有暖場句與強調拐杖詞
+ART-CORE-02	核心原則	SKILL.md#核心原則	同向陳述，沒有二元對比、否定補述與戲劇性分段
+ART-CORE-03	核心原則	SKILL.md#核心原則	句長有變化，清單項數跟著內容走
+ART-CORE-04	核心原則	SKILL.md#核心原則	直接陳述，沒有軟化語氣、預先辯解與逐步引導
+ART-CORE-05	核心原則	SKILL.md#核心原則	沒有犧牲精確度的金句
+ART-COVER-01	改寫保留資訊量	SKILL.md#核心原則	改寫覆蓋原文全部內容
+ART-DETECT-01	判斷是否為 AI 痕跡	references/judgment-policy.md#判斷是否為 AI 痕跡	以模式群聚判斷，單一特徵不作定論
+ART-DETECT-02	判斷是否為 AI 痕跡	references/judgment-policy.md#判斷是否為 AI 痕跡	保留具體細節、矛盾情緒與真實插話
+ART-FILL-01	填充與修辭腔	references/writing/prose-filler.md#填充短語	沒有迂迴填充短語
+ART-FILL-02	填充與修辭腔	references/writing/prose-filler.md#只描述清單長度的數字	數字只用於門檻、上限、業務硬數字與自然量詞
+ART-FILL-03	填充與修辭腔	references/writing/prose-filler.md#疊加保留語	沒有疊加保留語
+ART-FILL-04	填充與修辭腔	references/writing/prose-filler.md#通用樂觀結論	沒有通用樂觀結論
+ART-FILL-05	填充與修辭腔	references/writing/prose-filler.md#說服式權威腔	沒有說服式權威腔
+ART-FILL-06	填充與修辭腔	references/writing/prose-filler.md#宣告式開場	沒有宣告式開場
+ART-FILL-07	填充與修辭腔	references/writing/prose-filler.md#破碎標題	標題後沒有重述標題的暖場句
+ART-FILL-08	填充與修辭腔	references/writing/prose-filler.md#以差異為錨點的敘述	文件描述現況，沒有編輯過程用語
+ART-FILL-09	填充與修辭腔	references/writing/prose-filler.md#人造金句與斷奏式短句	沒有人造金句與斷奏式短句堆疊
+ART-FILL-10	填充與修辭腔	references/writing/prose-filler.md#格言公式	沒有格言公式
+ART-FILL-11	填充與修辭腔	references/writing/prose-filler.md#口語修辭開場	沒有假裝坦率的口語開場
+ART-LANG-01	語言與語法	references/writing/prose-grammar.md#AI 高頻詞	沒有堆疊 AI 高頻詞
+ART-LANG-02	語言與語法	references/writing/prose-grammar.md#修飾語堆疊	修飾語只在改變語意或帶出作者反應時保留
+ART-LANG-03	語言與語法	references/writing/prose-grammar.md#迴避「是」與「有」	能用「是」「有」時直接使用
+ART-LANG-04	語言與語法	references/writing/prose-grammar.md#硬湊三項	清單沒有硬湊成三項
+ART-LANG-05	語言與語法	references/writing/prose-grammar.md#名稱與實體不對應	一個實體一個名稱，一個名稱一個實體
+ART-LANG-06	語言與語法	references/writing/prose-grammar.md#虛假範圍	「從 X 到 Y」的 X 與 Y 在同一量尺上
+ART-LANG-07	語言與語法	references/writing/prose-grammar.md#無主語片段	動作者清楚，沒有無主語片段
+ART-LANG-08	語言與語法	references/writing/prose-grammar.md#成對連接詞只寫一半	成對連接詞有開頭就有接續
+ART-PROC-01	驗收條件	SKILL.md#驗收條件	定稿符合驗收條件
+ART-SOUL-01	敘事段落的作者語氣	SKILL.md#核心原則	敘事段落寫出作者已表達的觀點與情緒
+ART-SOUL-02	敘事段落的作者語氣	SKILL.md#核心原則	技術文字與結構化參照維持中性，觀點只來自作者素材
+ART-STYLE-01	風格	references/writing/prose-style.md#粗體標籤條列	敘事內容寫成段落，沒有拆成粗體標籤條列
+ART-STYLE-02	風格	references/writing/prose-style.md#表情符號	沒有裝飾性表情符號
+ART-STYLE-03	風格	references/writing/prose-style.md#引號一致	全文引號字型一致
+ART-STYLE-04	風格	references/writing/prose-style.md#符號代替文字	中文句子沒有以程式符號代替文字
+ART-TECH-01	技術文體	references/writing/prose-technical.md#否定補述與「不 X，只 Y」	正面事實後沒有否定補述與缺席宣告
+ART-TECH-02	技術文體	references/writing/prose-technical.md#名詞片段與敘述句	說明欄與表格說明格寫成完整敘述句
+ART-TECH-03	技術文體	references/writing/prose-technical.md#翻譯腔	譯文依目標語言語序重寫，沒有翻譯腔
+ART-TECH-04	技術文體	references/writing/prose-technical.md#簡中與繁中用語	繁中使用台灣用語，簡中使用大陸用語
+ART-TECH-05	技術文體	references/writing/prose-technical.md#同一件事拆成多句	同一件事的條件、動作與結果寫在同一句
+ART-TECH-06	技術文體	references/writing/prose-technical.md#中英夾雜	可以用中文表達的英文片語寫成中文
+ART-TECH-07	技術文體	references/writing/prose-technical.md#公文腔	沒有以文言虛詞取代口語書面中文
+ART-VOICE-01	語氣校準	SKILL.md#核心原則	有樣本時貼合樣本語氣
+ART-ZH-01	中文空話詞	references/writing/prose-buzzword.md#偵測與判定	抽象空話詞都已換成具體動作與結果
+ART-ZH-02	中文空話詞	references/writing/prose-buzzword.md#口頭單音節動詞	口頭單音節動詞換成實際動作，截短的複合詞寫回完整的詞
+ART-ZH-03	中文空話詞	references/writing/prose-buzzword.md#自創術語	沒有未定義的自創術語
+DOC-BOLD-01	粗體使用	references/writing/format-bold.md#標籤位置	粗體只用於結構化標籤位置
+DOC-BOLD-02	粗體使用	references/writing/format-bold.md#句中強調	句中強調改用「X」或普通文字
+DOC-COMP-01	完整性	references/writing/final-complete.md#列舉完整	列舉完整，沒有以省略號或「等」收尾
+DOC-COMP-02	完整性	references/writing/final-complete.md#完整路徑	受影響檔案以完整路徑逐一列出
+DOC-COMP-03	完整性	references/writing/final-complete.md#平行目錄	平行目錄套用同樣列表
+DOC-COMP-04	完整性	references/writing/final-complete.md#搜尋與掃描	搜尋無結果時至少換一種方式再找
+DOC-FINAL-01	現況寫作	references/writing/final-current.md#編輯紀錄的位置	正文沒有 diff 描述、版本增量註記與 AI 對話痕跡
+DOC-FINAL-02	現況寫作	references/writing/final-current.md#未完成標記	沒有未完成標記
+DOC-FMT-01	格式慣例	references/writing/format-markdown.md#表格	比較、屬性與結構化資料用含表頭列的表格
+DOC-FMT-02	格式慣例	references/writing/format-markdown.md#code block 的語言	code block 標明語言
+DOC-FMT-03	格式慣例	references/writing/format-markdown.md#連結	連結寫成 [text](path)，顯示文字讀得懂
+DOC-FMT-04	格式慣例	references/writing/format-markdown.md#破折號	連字用 ASCII -，正文沒有破折號
+DOC-FMT-05	格式慣例	references/writing/format-markdown.md#中文句讀	中文句讀依語意關係，英文依英文標點習慣
+DOC-FMT-06	產物與段落邊界	references/writing/layout-product.md#閱讀單元	說明在產物之前，產物後的文字開啟新主題
+DOC-GEN-01	通用原則	SKILL.md#通用原則	貼合同目錄既有文章的風格與結構
+DOC-GEN-02	通用原則	SKILL.md#通用原則	專屬指令定義的輸出格式優先
+DOC-HEAD-01	標題結構與分隔	references/writing/layout-heading.md#目錄標記	Wiki 版面在第一個標題之前有 TOC 標記
+DOC-HEAD-02	標題結構與分隔	references/writing/layout-heading.md#標題逐層	標題依 H1、H2、H3 逐層
+DOC-HEAD-03	標題結構與分隔	references/writing/layout-heading.md#H1 之間的分隔	H1 之間用空行、三行 <br>、兩個空行與 --- 分隔
+DOC-HEAD-04	標題結構與分隔	references/writing/layout-heading.md#H2 之間的分隔	同一個 H1 下的 H2 之間加一個 <br>
+DOC-HEAD-05	標題結構與分隔	references/writing/layout-heading.md#H4 的替代寫法	H3 以下細項改用粗體標籤
+DOC-HEAD-06	標題結構與分隔	references/writing/layout-heading.md#H2 的語言	同檔 H2 使用同一種語言
+DOC-I18N-01	翻譯指引	references/writing/layout-translation.md#標題對應	兩個語言版本的標題層級逐一對齊
+DOC-I18N-02	翻譯指引	references/writing/layout-translation.md#code block 的翻譯	code block 保持原樣，只翻譯註解
+DOC-I18N-03	翻譯指引	references/writing/layout-translation.md#連結路徑	連結路徑保持原樣
+DOC-I18N-04	翻譯指引	references/writing/layout-translation.md#對齊檢查	翻譯後執行 check-alignment.js
+DOC-PIT-01	常見錯誤	references/writing/layout-pitfalls.md#.order 與收錄位置	新文章加入同目錄 .order
+DOC-PIT-02	常見錯誤	references/writing/layout-pitfalls.md#規格型文章的內容	規格型文章說明 why 與 what，程式碼範例可執行
+DOC-TYPO-01	中英排版	references/writing/format-typography.md#中英之間的空白	中英文與行內 code 之間加空白
+DOC-TYPO-02	中英排版	references/writing/format-typography.md#中文與數字之間的空白	中文與數字之間加空白
+DOC-TYPO-03	中英排版	references/writing/format-typography.md#數字與單位之間的空白	數字與單位之間加空白，度數與百分比除外
+DOC-TYPO-04	中英排版	references/writing/format-typography.md#全形標點旁的空白	全形標點與其他字元之間不加空白
+DOC-TYPO-05	中英排版	references/writing/format-typography.md#重複標點	不重複使用標點
+DOC-TYPO-06	中英排版	references/writing/format-typography.md#中文句子的標點	中文句子用全形標點
+DOC-TYPO-07	中英排版	references/writing/format-typography.md#數字的寫法	數字用半形
+DOC-TYPO-08	中英排版	references/writing/format-typography.md#英文句子的標點	完整的英文句子與特殊名詞用半形標點
+DOC-TYPO-09	中英排版	references/writing/format-typography.md#專有名詞的大小寫	專有名詞用正確的大小寫
+DOC-TYPO-10	中英排版	references/writing/format-typography.md#縮寫	不用不道地的縮寫

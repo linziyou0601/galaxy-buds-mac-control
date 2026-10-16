@@ -47,8 +47,7 @@
 | App 版本與識別 | [Info.plist](Sources/Resources/Info.plist) |
 | 素材來源與雜湊 | [sources.json](Sources/Resources/Products/sources.json) |
 | 程式撰寫風格 | [rule-native](.ai/skills/rule-native/SKILL.md) |
-| 文件撰寫規範 | [rule-documentation](.ai/skills/rule-documentation/SKILL.md) |
-| 文字與註解用語 | [rule-article-humanizer](.ai/skills/rule-article-humanizer/SKILL.md) |
+| 文件與行文寫作 | [rule-writing](.ai/skills/rule-writing/SKILL.md) |
 | 精簡與反過度設計 | [rule-minimalism](.ai/skills/rule-minimalism/SKILL.md) |
 
 <br>
@@ -70,7 +69,7 @@
 | Git | 不自動 stage、commit、push、merge、stash、reset 或刪除使用者資料 |
 | 發佈 | 版本、標籤、簽章憑證及對外發佈由使用者明確要求後執行 |
 | 新增實體 | 新增函式、欄位、型別、檔案或相依前，先按照 rule-minimalism 搜尋與選用既有能力 |
-| 註解 | 描述責任、資料流、單位、副作用與邊界，正文維持終態用語 |
+| 註解 | 描述責任、資料流、單位、副作用與邊界，正文維持現況用語 |
 
 <br>
 
@@ -112,6 +111,17 @@
 ## 其他
 
 - 使用者可見文字以正體中文為主，技術識別子、檔名與 API 保留英文。
-- 文件及註解使用終態寫法，編輯過程記錄於版本紀錄。
+- 文件及註解使用現況寫法，編輯過程記錄於版本紀錄。
 - 藍牙診斷在本機保存，分享前檢查裝置識別與序號。
 - 本機測試成功與公開發行完成分別判定。
+
+<br>
+
+## 寫作檢查
+
+`rule-writing` 的 lint 使用 Node.js 20 以上，從儲存庫根目錄執行，路徑設定放在 `.ai/rule-writing/layout-profiles.tsv`。設定採一般 Markdown 版面，標題與分隔依專案寫作慣例檢查，警告與提示依參照及上下文判讀。檢查指定文件與交付文字的指令如下：
+
+```bash
+node .ai/skills/rule-writing/scripts/lint.mjs AGENTS.md --root . --project .ai/rule-writing
+node .ai/skills/rule-writing/scripts/lint.mjs --text "待檢查的交付文字"
+```

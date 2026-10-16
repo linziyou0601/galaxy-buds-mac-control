@@ -11,7 +11,7 @@ description: 修改 Swift、機型配置、藍牙、音訊、原生 UI、建置�
 
 ## 適用範圍
 
-Sources、Tests、機型 JSON、建置與驗證腳本。新增宣告、抽象及相依同時依 rule-minimalism，使用者可見文字與註解同時依 rule-article-humanizer。
+Sources、Tests、機型 JSON、建置與驗證腳本。新增宣告、抽象及相依同時依 rule-minimalism，使用者可見文字與註解同時依 rule-writing。
 
 ## 技術與分層
 
@@ -20,7 +20,8 @@ Sources、Tests、機型 JSON、建置與驗證腳本。新增宣告、抽象及
 - View 經服務操作外部裝置，解析器與配置驗證使用 Foundation，可獨立測試。
 - 純轉換與固定資料採 struct 或 enum，系統 callback、共享參照狀態及資源生命週期採 class。
 - 重用優先使用既有元件與服務組合，框架要求的 NSObject delegate 保留原生繼承。
-- 同一責任維持同一服務邊界，拆檔與新增型別需有實際職責或呼叫點依據。
+- 同一責任維持同一服務邊界，拆分檔案與新增型別需有實際職責或呼叫點依據。
+- 邏輯抽出前先判定是否需要實例相依、狀態及跨檔重用，單檔純計算留在所屬檔案，共用的無狀態工具依領域放置，讓呼叫與資料來源保持鄰近。
 
 ## 命名與風格
 
@@ -37,14 +38,14 @@ Sources、Tests、機型 JSON、建置與驗證腳本。新增宣告、抽象及
 - 有限選項使用 enum，固定欄位資料使用具名 struct，執行期鍵對照才使用 Dictionary。
 - 以 optional 表達未回報或未知值，數值欄位說明單位、索引與有效範圍。
 - 外部資料通過長度、範圍、列舉與配置驗證後，才更新快照。
-- MainActor 管理可觀察狀態，背景 callback 先複製資料，再切回 MainActor。
+- MainActor 管理可觀察狀態，背景 callback 先複製資料，再切換至 MainActor。
 - 傳輸成功、耳機 ACK、狀態回報及實機效果各自判讀。
 - 候選顯示值保持可見回饋，錯誤與未知值保留真實語意。
 
 ## 原生 UI 與元件
 
 - 先查公開系統元件、SDK 宣告及既有 View，最後才建立必要的組合。
-- 系統屬性可表達形狀、焦點或材質時直接使用，避免外套樣式破壞控件原生行為。
+- 系統屬性可表達形狀、焦點或材質時直接使用，避免外套樣式破壞控制元件原生行為。
 - 使用 NavigationSplitView、Form、Section、Button、Toggle、Picker、Slider、LabeledContent、NSPopover 與 NSWindow。
 - 玻璃材質使用公開 Liquid Glass API，圓角、陰影、焦點、明暗與高對比由系統處理。
 - 相同模式控制、ANC、圖片及設定列共用元件。
@@ -78,7 +79,7 @@ Sources、Tests、機型 JSON、建置與驗證腳本。新增宣告、抽象及
 
 ## 註解
 
-依 [Swift 註解規範](references/commenting.md) 說明型別責任、資料來源、參數、單位、副作用、失敗與取消邊界。區段說明完整意圖，註解描述終態行為。
+依 [Swift 註解規範](references/commenting.md) 說明型別責任、資料來源、參數、單位、副作用、失敗與取消邊界。區段說明完整意圖，註解描述現況行為。
 
 ## 驗證
 

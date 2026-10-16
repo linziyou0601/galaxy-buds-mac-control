@@ -1,0 +1,4 @@
+副檔名	格式	說明
+.md	markdown	依 markdown 解析，套用全部規則
+.mdx	mdx	依 markdown 解析，另遮罩 import、export 與大括號內的運算式
+.txt	純文字	每個非空行都是段落，只套用行文規則

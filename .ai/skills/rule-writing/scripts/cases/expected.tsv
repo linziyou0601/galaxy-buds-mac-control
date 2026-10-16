@@ -1,0 +1,52 @@
+檔案	行	規則
+internal-docs/chinese/wiki-bad.md	1	.order 沒有登記
+internal-docs/chinese/wiki-bad.md	1	TOC 缺少
+internal-docs/chinese/wiki-bad.md	3	破折號
+internal-docs/chinese/wiki-bad.md	5	標題跳級
+internal-docs/chinese/wiki-bad.md	7	句中粗體
+internal-docs/chinese/wiki-bad.md	9	code block 沒有語言
+internal-docs/chinese/wiki-bad.md	17	產物之後的補述
+internal-docs/chinese/wiki-bad.md	19	裸網址
+internal-docs/chinese/wiki-bad.md	19	全形標點旁的空白
+internal-docs/chinese/wiki-bad.md	21	標題過深
+internal-docs/chinese/wiki-bad.md	23	未完成標記
+internal-docs/chinese/wiki-bad.md	24	H1 分隔不符
+internal-docs/chinese/wiki-bad.md	26	彎引號
+internal-docs/chinese/wiki-bad.md	30	H2 分隔不符
+internal-docs/chinese/wiki-bad.md	30	H2 語言混用
+notes/prose.md	3	AI 高頻詞
+notes/prose.md	3	成對連接詞
+notes/prose.md	5	否定補述
+notes/prose.md	7	區別語結尾
+notes/prose.md	7	被動結尾
+notes/prose.md	9	中文分號黏接
+notes/prose.md	9	符號代替文字
+notes/prose.md	11	清單長度數字
+notes/prose.md	11	簡繁用語（一對一）
+notes/prose.md	11	單音節動詞結尾
+notes/prose.md	13	缺席宣告
+notes/prose.md	13	只與不並列
+notes/prose.md	15	否定補述
+notes/prose.md	17	二元句型
+notes/prose.md	19	列舉省略
+notes/prose.md	21	無受詞的對齊
+notes/prose.md	23	歷史敘事詞
+notes/prose.md	25	清單長度數字
+notes/prose.md	27	未完成標記
+notes/prose.md	31	清單長度數字
+notes/prose.md	38	列舉省略
+notes/typo.md	3	中英之間沒有空白
+notes/typo.md	5	中文與數字之間沒有空白
+notes/typo.md	7	數字與單位之間沒有空白
+notes/typo.md	9	全形標點旁的空白
+notes/typo.md	9	重複標點
+notes/typo.md	11	全形數字
+notes/typo.md	13	中文句子用半形標點
+notes/typo.md	15	專有名詞大小寫
+notes/typo.md	15	不道地的縮寫
+notes/typo.md	17	英文句子用全形標點
+notes/style.md	6	口語修辭開場
+notes/style.md	8	否定補述
+notes/style.md	18	被動結尾
+notes/plain.txt	1	全形標點旁的空白
+notes/plain.txt	3	AI 高頻詞
