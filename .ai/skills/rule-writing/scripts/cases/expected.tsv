@@ -1,19 +1,19 @@
 檔案	行	規則
-internal-docs/chinese/wiki-bad.md	1	.order 沒有登記
-internal-docs/chinese/wiki-bad.md	1	TOC 缺少
-internal-docs/chinese/wiki-bad.md	3	破折號
-internal-docs/chinese/wiki-bad.md	5	標題跳級
-internal-docs/chinese/wiki-bad.md	7	句中粗體
-internal-docs/chinese/wiki-bad.md	9	code block 沒有語言
-internal-docs/chinese/wiki-bad.md	17	產物之後的補述
-internal-docs/chinese/wiki-bad.md	19	裸網址
-internal-docs/chinese/wiki-bad.md	19	全形標點旁的空白
-internal-docs/chinese/wiki-bad.md	21	標題過深
-internal-docs/chinese/wiki-bad.md	23	未完成標記
-internal-docs/chinese/wiki-bad.md	24	H1 分隔不符
-internal-docs/chinese/wiki-bad.md	26	彎引號
-internal-docs/chinese/wiki-bad.md	30	H2 分隔不符
-internal-docs/chinese/wiki-bad.md	30	H2 語言混用
+wiki-docs/chinese/wiki-bad.md	1	.order 沒有登記
+wiki-docs/chinese/wiki-bad.md	1	TOC 缺少
+wiki-docs/chinese/wiki-bad.md	3	破折號
+wiki-docs/chinese/wiki-bad.md	5	標題跳級
+wiki-docs/chinese/wiki-bad.md	7	句中粗體
+wiki-docs/chinese/wiki-bad.md	9	code block 沒有語言
+wiki-docs/chinese/wiki-bad.md	17	產物之後的補述
+wiki-docs/chinese/wiki-bad.md	19	裸網址
+wiki-docs/chinese/wiki-bad.md	19	全形標點旁的空白
+wiki-docs/chinese/wiki-bad.md	21	標題過深
+wiki-docs/chinese/wiki-bad.md	23	未完成標記
+wiki-docs/chinese/wiki-bad.md	24	H1 分隔不符
+wiki-docs/chinese/wiki-bad.md	26	彎引號
+wiki-docs/chinese/wiki-bad.md	30	H2 分隔不符
+wiki-docs/chinese/wiki-bad.md	30	H2 語言混用
 notes/prose.md	3	AI 高頻詞
 notes/prose.md	3	成對連接詞
 notes/prose.md	5	否定補述

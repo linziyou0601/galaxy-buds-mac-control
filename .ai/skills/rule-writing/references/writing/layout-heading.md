@@ -1,6 +1,6 @@
 # 標題結構與分隔
 
-Azure DevOps Wiki 依標題產生側邊目錄，區段之間的間距由固定的分隔寫法決定。本檔的條目只套用在 Wiki 版面的檔案，哪些路徑採 Wiki 版面寫在專案定義表的 `layout-profiles.tsv`。
+Wiki 依標題產生側邊目錄，區段之間的間距由固定的分隔寫法決定。本檔的條目只套用在 Wiki 版面的檔案，哪些路徑採 Wiki 版面寫在專案定義表的 `layout-profiles.tsv`。
 
 ## 目錄標記
 
@@ -42,7 +42,7 @@ Content here
 
 ## H4 的替代寫法
 
-H3 以下的細項寫成單獨一行的 `**粗體標籤**`，下一行接表格、清單或段落。Azure DevOps Wiki 的 H4 外觀接近清單項目，讀者容易看錯層級。lint 以規則「標題過深」檢查，最深層級寫在 `references/tables/layout-markdown.tsv`。
+H3 以下的細項寫成單獨一行的 `**粗體標籤**`，下一行接表格、清單或段落。Wiki 的 H4 外觀接近清單項目，讀者容易看錯層級。lint 以規則「標題過深」檢查，最深層級寫在 `references/tables/layout-markdown.tsv`。
 
 ## H2 的語言
 

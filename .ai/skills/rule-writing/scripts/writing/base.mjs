@@ -207,7 +207,7 @@ export class ExitRequest extends Error {
  * @throws {ExitRequest} 載入丟出 InputError 時。其他例外照常拋出。
  */
 export function loading(load) {
-  // 只處理輸入資料錯誤，其他例外照常拋出
+  // 執行載入，丟出輸入資料錯誤時轉成結束要求
   try {
     return load();
   } catch (e) {

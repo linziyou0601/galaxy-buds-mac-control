@@ -119,6 +119,8 @@
 
 ## 寫作檢查
 
+專案的版面、翻譯與文件分工見 `.ai/rule-writing/project-policy.md` 與 `.ai/rule-writing/docs-entry-policy.md`，執行時使用本 repo 的 skill 與設定。
+
 `rule-writing` 的 lint 使用 Node.js 20 以上，從儲存庫根目錄執行，路徑設定放在 `.ai/rule-writing/layout-profiles.tsv`。設定採一般 Markdown 版面，標題與分隔依專案寫作慣例檢查，警告與提示依參照及上下文判讀。檢查指定文件與交付文字的指令如下：
 
 ```bash

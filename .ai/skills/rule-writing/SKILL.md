@@ -18,8 +18,8 @@ description: 撰寫或修改任何要交給讀者的文字時自動套用的文�
 | 面向 | 決定什麼 | 來源 |
 |---|---|---|
 | 格式 | markdown、mdx 或純文字。code block、連結、粗體與產物的規則只套用在 markdown 與 mdx | 副檔名，見 `references/tables/layout-formats.tsv`。commit message、PR 描述與對話段落以 `--text` 當成純文字 |
-| 版面 | 是否採 Azure DevOps Wiki 版面。採用時另外套用 TOC、標題分隔與 `.order` 的規則 | 路徑，寫在專案定義表的 `layout-profiles.tsv`，以 `--project` 傳入 |
-| 文風 | 文字的寫作目的，每個文風調整一組規則的層級 | 專案定義表依路徑給預設文風，文件以 front matter 或 HTML 註解宣告，命令列以 `--style` 指定 |
+| 版面 | 是否採 Wiki 版面。採用時另外套用 TOC、標題分隔與 `.order` 的規則 | 路徑，寫在專案定義表的 `layout-profiles.tsv`，以 `--project` 傳入 |
+| 文風 | 文字的寫作目的，每個文風調整一組規則的層級 | 專案定義表依路徑給預設文風，文件依專案慣例以 front matter 或 HTML 註解宣告，命令列以 `--style` 指定 |
 
 文風依文字要讓讀者做什麼來選，一份文件可以宣告多個文風，依序套用：
 
@@ -116,7 +116,7 @@ node {skill 目錄}/scripts/lint.mjs --judged {輸出目錄}
 
 撰寫或改寫文字時依下列步驟前進，審查從第 4 步起執行：
 
-1. 先讀同目錄的兄弟文章，確認格式、版面與文風。文風不是路徑給的預設時，在 front matter 或章節開頭宣告。
+1. 先讀同目錄的兄弟文章，確認格式、版面與文風。文風不是路徑給的預設時，依專案允許的 front matter、HTML 註解或命令列參數宣告。
 2. 依 [writing-catalog](references/writing-catalog.md) 的版面、格式與交付內容組排版面、產物與段落，依行文組與核心原則寫句子。
 3. 改寫整篇敘事文章時，可以先寫草稿，自問「這段為什麼還像 AI 寫的」，列出殘留破綻後再定稿，完整流程示範見 [prose-example](references/writing/prose-example.md)。
 4. 交付前執行 `scripts/lint.mjs {路徑}... --root {儲存庫根目錄} --project {專案定義表目錄} --out {輸出目錄}`，依改法修正全部錯誤。用語的一對一錯誤可以加 `--fix` 直接取代。

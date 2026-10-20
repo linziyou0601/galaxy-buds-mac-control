@@ -4,7 +4,7 @@
 
 ## .order 與收錄位置
 
-新增文章時，同步把檔名加進同目錄的 `.order`，Azure DevOps Wiki 側邊欄才會顯示。`.order` 的維護、入口頁與檔案放置依 [docs-entry-policy](../docs-entry-policy.md)。lint 以規則「.order 沒有登記」檢查檔案所在目錄有 `.order` 時，檔名（不含副檔名）是否登記在其中。側欄排序檔的檔名寫在 `references/tables/layout-markdown.tsv`。
+新增文章時，同步把檔名加進同目錄的 `.order`，Wiki 側邊欄才會顯示。`.order` 的維護、入口頁與檔案放置依 [docs-entry-policy](../docs-entry-policy.md)。lint 以規則「.order 沒有登記」檢查檔案所在目錄有 `.order` 時，檔名（不含副檔名）是否登記在其中。側欄排序檔的檔名寫在 `references/tables/layout-markdown.tsv`。
 
 ## 規格型文章的內容
 

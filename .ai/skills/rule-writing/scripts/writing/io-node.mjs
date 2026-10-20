@@ -1,10 +1,10 @@
 /* ==================================================
  * io-node.mjs - io 介面的 node 實作與進入點的執行包裝
  * --------------------------------------------------
- * - 角色：核心模組只透過 io 物件存取檔案與標準輸出入，本檔以 node:fs 與 node:path 實作。瀏覽器或測試可以傳入記憶體版本
+ * - 角色：核心模組透過 io 物件存取檔案與標準輸出入，本檔以 node:fs 與 node:path 實作。瀏覽器或測試可以傳入記憶體版本
  * - 介面：readText、writeText、exists、isDir、listFiles、listEntries、resolve、relative、stdout、stderr，
  *   以及 skill 根目錄 skillDir 與機讀定義表目錄 tablesDir
- * - 慣例：路徑一律是 POSIX 絕對路徑，relative 回傳相對路徑。listEntries 不跟隨符號連結的目錄
+ * - 慣例：路徑是 POSIX 絕對路徑，relative 回傳相對路徑。listEntries 不跟隨符號連結的目錄
  * - 慣例：進入點以 runMain 執行主函式，ExitRequest 在此寫出訊息並設定結束代碼
  * - 慣例：文字模式的第一行寫出本次執行的指令，最後一行寫出結束代碼。--json 與說明模式不寫
  * - 慣例：指定 --out 或 --judged 目錄時，本次執行的指令、標準輸出、標準錯誤與結束代碼附加到該目錄的 runs.txt，
@@ -22,7 +22,7 @@ import { HELP_OPTIONS, JSON_OPTION, JUDGED_OPTION, OPTION_VALUE_SEPARATOR, OUT_O
  * ================================================== */
 
 /**
- * skill 根目錄。機讀定義表與條目索引參照的 md 都以它定位。
+ * skill 根目錄。機讀定義表與條目索引參照的 md 以它定位。
  */
 export const SKILL_DIR = resolve(dirname(fileURLToPath(import.meta.url)), "../..");
 
@@ -46,11 +46,11 @@ const QUIET_OPTIONS = [JSON_OPTION, ...HELP_OPTIONS];
  * @returns {boolean}
  */
 function isDir(path) {
-  // 路徑不存在或無法讀取時視為不是目錄
+  // 跟隨符號連結取得路徑的狀態
   try {
     return statSync(path).isDirectory();
   } catch {
-    // 讀取失敗時不是目錄
+    // 路徑不存在或無法讀取時不是目錄
     return false;
   }
 }
@@ -124,7 +124,7 @@ function runDir(args) {
 
 /**
  * 執行進入點的主函式：回傳值為結束代碼，丟出 ExitRequest 時寫出其訊息並以其代碼結束。
- * 以 process.exitCode 設定結束代碼，不呼叫 process.exit，導向管線的大量輸出才不會被截斷。
+ * 以 process.exitCode 設定結束代碼，不呼叫 process.exit，導向管線的大量輸出才能完整寫出。
  * @param {function(): (number|Promise<number>)} main 主函式。
  * @returns {Promise<void>}
  */
@@ -133,7 +133,7 @@ export async function runMain(main) {
   const text = !args.some((a) => QUIET_OPTIONS.includes(a));
   // 文字模式先寫出本次執行的指令
   if (text) process.stdout.write(`${commandLine()}\n`);
-  // 一般結束取主函式的回傳值，ExitRequest 依其內容輸出後結束，其餘錯誤照常拋出
+  // 一般結束取主函式的回傳值，ExitRequest 依其內容輸出後結束
   try {
     process.exitCode = (await main()) ?? EXIT_OK;
   } catch (e) {
